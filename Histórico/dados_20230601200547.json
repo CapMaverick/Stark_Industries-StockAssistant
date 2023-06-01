@@ -5,7 +5,7 @@
             "name": "MAGAZINE LUIZA",
             "close": 4.06,
             "change": 6.84210526,
-            "volume": 106315800,
+            "volume": 105958400,
             "market_cap": 25375800365,
             "logo": "https://s3-symbol-logo.tradingview.com/magaz-luiza-on-nm--big.svg",
             "sector": "Retail Trade"
@@ -185,7 +185,7 @@
             "name": "LOJAS RENNERON",
             "close": 20.56,
             "change": 5.70693544,
-            "volume": 25138400,
+            "volume": 25124200,
             "market_cap": 18673319638,
             "logo": "https://s3-symbol-logo.tradingview.com/lojas-renner--big.svg",
             "sector": "Retail Trade"
@@ -395,7 +395,7 @@
             "name": "JBS",
             "close": 16.41,
             "change": -2.32142276,
-            "volume": 12096600,
+            "volume": 12050900,
             "market_cap": 37264350651,
             "logo": "https://s3-symbol-logo.tradingview.com/jbs-s-a--big.svg",
             "sector": "Consumer Non-Durables"
@@ -1395,7 +1395,7 @@
             "name": "IRBBRASIL",
             "close": 39.08,
             "change": 2.84210526,
-            "volume": 2302800,
+            "volume": 2299800,
             "market_cap": 2647050026,
             "logo": "https://s3-symbol-logo.tradingview.com/irbbrasil-reon--big.svg",
             "sector": "Finance"
@@ -2385,7 +2385,7 @@
             "name": "AMAZON DRN",
             "close": 30.67,
             "change": 0.42566796,
-            "volume": 309457,
+            "volume": 309417,
             "market_cap": 5952860915694.022,
             "logo": "https://s3-symbol-logo.tradingview.com/amazon--big.svg",
             "sector": "Retail Trade"
@@ -2475,7 +2475,7 @@
             "name": "INTEL DRN",
             "close": 26.02,
             "change": -2.61975683,
-            "volume": 273722,
+            "volume": 273714,
             "market_cap": 664317336514.691,
             "logo": "https://s3-symbol-logo.tradingview.com/intel--big.svg",
             "sector": "Electronic Technology"
@@ -2785,7 +2785,7 @@
             "name": "APPLE DRN",
             "close": 45,
             "change": -0.22172507,
-            "volume": 167239,
+            "volume": 167204,
             "market_cap": 14123163403297.873,
             "logo": "https://s3-symbol-logo.tradingview.com/apple--big.svg",
             "sector": "Electronic Technology"
@@ -2975,7 +2975,7 @@
             "name": "MAGAZINE LUIZA",
             "close": 4.05,
             "change": 8,
-            "volume": 117041,
+            "volume": 115815,
             "market_cap": 25375800365,
             "logo": "https://s3-symbol-logo.tradingview.com/magaz-luiza-on-nm--big.svg",
             "sector": "Retail Trade"
@@ -2995,7 +2995,7 @@
             "name": "CREDIT SUISSDRN",
             "close": 2.14,
             "change": 1.42180095,
-            "volume": 113822,
+            "volume": 113812,
             "market_cap": 16513403066.140833,
             "logo": "https://s3-symbol-logo.tradingview.com/credit-suisse--big.svg",
             "sector": "Finance"
@@ -3665,7 +3665,7 @@
             "name": "SILVER TRUSTDRE",
             "close": 36.55,
             "change": 0.19188596,
-            "volume": 53026,
+            "volume": 53022,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
@@ -3765,7 +3765,7 @@
             "name": "COCA COLA DRN",
             "close": 50.19,
             "change": -1.45297467,
-            "volume": 48053,
+            "volume": 48032,
             "market_cap": 1307012818024.3164,
             "logo": "https://s3-symbol-logo.tradingview.com/coca-cola--big.svg",
             "sector": "Consumer Non-Durables"
@@ -4291,26 +4291,6 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "IRBR3F",
-            "name": "IRBBRASIL",
-            "close": 38.71,
-            "change": 2.40741012,
-            "volume": 33351,
-            "market_cap": 2647050026,
-            "logo": "https://s3-symbol-logo.tradingview.com/irbbrasil-reon--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "LREN3F",
-            "name": "LOJAS RENNERON",
-            "close": 20.53,
-            "change": 3.16582915,
-            "volume": 32943,
-            "market_cap": 18673319638,
-            "logo": "https://s3-symbol-logo.tradingview.com/lojas-renner--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
             "stock": "KNRI11",
             "name": "FII KINEA CI",
             "close": 151.52,
@@ -4319,6 +4299,26 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": "Miscellaneous"
+        },
+        {
+            "stock": "LREN3F",
+            "name": "LOJAS RENNERON",
+            "close": 20.53,
+            "change": 3.16582915,
+            "volume": 32842,
+            "market_cap": 18673319638,
+            "logo": "https://s3-symbol-logo.tradingview.com/lojas-renner--big.svg",
+            "sector": "Retail Trade"
+        },
+        {
+            "stock": "IRBR3F",
+            "name": "IRBBRASIL",
+            "close": 38.71,
+            "change": 2.40741012,
+            "volume": 32836,
+            "market_cap": 2647050026,
+            "logo": "https://s3-symbol-logo.tradingview.com/irbbrasil-reon--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "TEPP11",
@@ -4545,7 +4545,7 @@
             "name": "JBS",
             "close": 16.42,
             "change": -2.89769367,
-            "volume": 28374,
+            "volume": 28292,
             "market_cap": 37264350651,
             "logo": "https://s3-symbol-logo.tradingview.com/jbs-s-a--big.svg",
             "sector": "Consumer Non-Durables"
@@ -5365,7 +5365,7 @@
             "name": "BROADCOM INCDRN",
             "close": 56,
             "change": -4.24076607,
-            "volume": 18800,
+            "volume": 18767,
             "market_cap": 1706472327208.7134,
             "logo": "https://s3-symbol-logo.tradingview.com/broadcom--big.svg",
             "sector": "Electronic Technology"
@@ -6051,16 +6051,6 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "ORCL34",
-            "name": "ORACLE DRN",
-            "close": 89.85,
-            "change": 0.23427153,
-            "volume": 13304,
-            "market_cap": 1448921128054.7114,
-            "logo": "https://s3-symbol-logo.tradingview.com/oracle--big.svg",
-            "sector": "Technology Services"
-        },
-        {
             "stock": "MULT3F",
             "name": "MULTIPLAN",
             "close": 26.65,
@@ -6069,6 +6059,16 @@
             "market_cap": 14774600131,
             "logo": "https://s3-symbol-logo.tradingview.com/multiplan-on-n2--big.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "ORCL34",
+            "name": "ORACLE DRN",
+            "close": 89.85,
+            "change": 0.23427153,
+            "volume": 13304,
+            "market_cap": 1448921128054.7114,
+            "logo": "https://s3-symbol-logo.tradingview.com/oracle--big.svg",
+            "sector": "Technology Services"
         },
         {
             "stock": "BACW39",
@@ -6141,16 +6141,6 @@
             "sector": null
         },
         {
-            "stock": "CEDO4",
-            "name": "CEDRO PN",
-            "close": 7.62,
-            "change": -1.67741935,
-            "volume": 12800,
-            "market_cap": 77785356,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
-        },
-        {
             "stock": "OSXB3",
             "name": "OSX BRASIL",
             "close": 4.12,
@@ -6159,6 +6149,16 @@
             "market_cap": 12906956,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Industrial Services"
+        },
+        {
+            "stock": "CEDO4",
+            "name": "CEDRO PN",
+            "close": 7.62,
+            "change": -1.67741935,
+            "volume": 12800,
+            "market_cap": 77785356,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
         },
         {
             "stock": "MYPK3F",
@@ -6331,16 +6331,6 @@
             "sector": null
         },
         {
-            "stock": "A1AP34",
-            "name": "ADVANCE AUTODRN",
-            "close": 21.38,
-            "change": -7.60587328,
-            "volume": 11574,
-            "market_cap": 21886858399.189465,
-            "logo": "https://s3-symbol-logo.tradingview.com/advance-auto-parts--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
             "stock": "RAPT4F",
             "name": "RANDON PART PN",
             "close": 10.86,
@@ -6349,6 +6339,16 @@
             "market_cap": 3183718896,
             "logo": "https://s3-symbol-logo.tradingview.com/randon--big.svg",
             "sector": "Producer Manufacturing"
+        },
+        {
+            "stock": "A1AP34",
+            "name": "ADVANCE AUTODRN",
+            "close": 21.38,
+            "change": -7.60587328,
+            "volume": 11559,
+            "market_cap": 21886858399.189465,
+            "logo": "https://s3-symbol-logo.tradingview.com/advance-auto-parts--big.svg",
+            "sector": "Retail Trade"
         },
         {
             "stock": "TELB3",
@@ -7861,16 +7861,6 @@
             "sector": "Health Services"
         },
         {
-            "stock": "LAVV3F",
-            "name": "LAVVI",
-            "close": 6.55,
-            "change": 1.5503876,
-            "volume": 5179,
-            "market_cap": 1290124502,
-            "logo": "https://s3-symbol-logo.tradingview.com/lavvi-on-nm--big.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "ALPA4F",
             "name": "ALPARGATAS PN",
             "close": 10.45,
@@ -7879,6 +7869,16 @@
             "market_cap": 7063912985,
             "logo": "https://s3-symbol-logo.tradingview.com/alpargatas--big.svg",
             "sector": "Consumer Non-Durables"
+        },
+        {
+            "stock": "LAVV3F",
+            "name": "LAVVI",
+            "close": 6.55,
+            "change": 1.5503876,
+            "volume": 5179,
+            "market_cap": 1290124502,
+            "logo": "https://s3-symbol-logo.tradingview.com/lavvi-on-nm--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "PEPB34",
@@ -7931,16 +7931,6 @@
             "sector": "Process Industries"
         },
         {
-            "stock": "IMAB11",
-            "name": "IT NOW IMA-BF11",
-            "close": 92.87,
-            "change": 0.18339051,
-            "volume": 4900,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/i-mab-biopharma--big.svg",
-            "sector": null
-        },
-        {
             "stock": "EUCA3",
             "name": "EUCATEX",
             "close": 13.59,
@@ -7949,6 +7939,16 @@
             "market_cap": 1044068552,
             "logo": "https://s3-symbol-logo.tradingview.com/eucatex-pn-n1--big.svg",
             "sector": "Non-Energy Minerals"
+        },
+        {
+            "stock": "IMAB11",
+            "name": "IT NOW IMA-BF11",
+            "close": 92.87,
+            "change": 0.18339051,
+            "volume": 4900,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/i-mab-biopharma--big.svg",
+            "sector": null
         },
         {
             "stock": "TEKA4",
@@ -8285,7 +8285,7 @@
             "name": "EQUINIX INC DRN ED",
             "close": 46.92,
             "change": -0.38216138,
-            "volume": 4198,
+            "volume": 4195,
             "market_cap": 353223207558.2574,
             "logo": "https://s3-symbol-logo.tradingview.com/equinix--big.svg",
             "sector": "Finance"
@@ -8481,16 +8481,6 @@
             "sector": "Utilities"
         },
         {
-            "stock": "RENT9",
-            "name": "LOCALIZA REC",
-            "close": 63.5,
-            "change": 3.25203252,
-            "volume": 3800,
-            "market_cap": 61207603135,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "IGTI4",
             "name": "IGUATEMI S.APN",
             "close": 9.56,
@@ -8498,6 +8488,16 @@
             "volume": 3800,
             "market_cap": 4749168742,
             "logo": "https://s3-symbol-logo.tradingview.com/iguatemi-saon-n1--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "RENT9",
+            "name": "LOCALIZA REC",
+            "close": 63.5,
+            "change": 3.25203252,
+            "volume": 3800,
+            "market_cap": 61207603135,
+            "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
         },
         {
@@ -8621,16 +8621,6 @@
             "sector": "Consumer Non-Durables"
         },
         {
-            "stock": "ESPA3F",
-            "name": "ESPACOLASER",
-            "close": 1.5,
-            "change": 7.14285714,
-            "volume": 3491,
-            "market_cap": 513220737,
-            "logo": "https://s3-symbol-logo.tradingview.com/espacolaser-on-nm--big.svg",
-            "sector": "Consumer Services"
-        },
-        {
             "stock": "DMVF3F",
             "name": "D1000VFARMA",
             "close": 4.53,
@@ -8641,14 +8631,14 @@
             "sector": "Distribution Services"
         },
         {
-            "stock": "CTSA3F",
-            "name": "SANTANENSE",
-            "close": 4.01,
-            "change": 2.82051282,
-            "volume": 3488,
-            "market_cap": 77015705,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
+            "stock": "ESPA3F",
+            "name": "ESPACOLASER",
+            "close": 1.5,
+            "change": 7.14285714,
+            "volume": 3491,
+            "market_cap": 513220737,
+            "logo": "https://s3-symbol-logo.tradingview.com/espacolaser-on-nm--big.svg",
+            "sector": "Consumer Services"
         },
         {
             "stock": "XPIE11",
@@ -8659,6 +8649,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fip-brz-ie-ci--big.svg",
             "sector": null
+        },
+        {
+            "stock": "CTSA3F",
+            "name": "SANTANENSE",
+            "close": 4.01,
+            "change": 2.82051282,
+            "volume": 3488,
+            "market_cap": 77015705,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
         },
         {
             "stock": "C2RW34",
@@ -8961,16 +8961,6 @@
             "sector": "Energy Minerals"
         },
         {
-            "stock": "PGCO34",
-            "name": "PG DRN",
-            "close": 51.43,
-            "change": -1.30493377,
-            "volume": 2917,
-            "market_cap": 1701459556509.6255,
-            "logo": "https://s3-symbol-logo.tradingview.com/procter-and-gamble--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
             "stock": "B5MB11",
             "name": "BRAD IMA-B5MF11",
             "close": 112.5,
@@ -8981,14 +8971,14 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "TGMA3F",
-            "name": "TEGMA",
-            "close": 22.56,
-            "change": 1.66741317,
-            "volume": 2894,
-            "market_cap": 1477006127,
-            "logo": "https://s3-symbol-logo.tradingview.com/tegma--big.svg",
-            "sector": "Transportation"
+            "stock": "PGCO34",
+            "name": "PG DRN",
+            "close": 51.43,
+            "change": -1.30493377,
+            "volume": 2917,
+            "market_cap": 1701459556509.6255,
+            "logo": "https://s3-symbol-logo.tradingview.com/procter-and-gamble--big.svg",
+            "sector": "Consumer Non-Durables"
         },
         {
             "stock": "BMOB3F",
@@ -8999,6 +8989,16 @@
             "market_cap": 1259133351,
             "logo": "https://s3-symbol-logo.tradingview.com/bemobi-tech-on-nm--big.svg",
             "sector": "Technology Services"
+        },
+        {
+            "stock": "TGMA3F",
+            "name": "TEGMA",
+            "close": 22.56,
+            "change": 1.66741317,
+            "volume": 2894,
+            "market_cap": 1477006127,
+            "logo": "https://s3-symbol-logo.tradingview.com/tegma--big.svg",
+            "sector": "Transportation"
         },
         {
             "stock": "BDIV11",
@@ -9231,6 +9231,16 @@
             "sector": "Non-Energy Minerals"
         },
         {
+            "stock": "NUTR3",
+            "name": "NUTRIPLANT MA",
+            "close": 4.99,
+            "change": -0.3992016,
+            "volume": 2600,
+            "market_cap": 66353898,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
+        },
+        {
             "stock": "VITT3F",
             "name": "VITTIA",
             "close": 11.13,
@@ -9249,16 +9259,6 @@
             "market_cap": 549956199,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Retail Trade"
-        },
-        {
-            "stock": "NUTR3",
-            "name": "NUTRIPLANT MA",
-            "close": 4.99,
-            "change": -0.3992016,
-            "volume": 2600,
-            "market_cap": 66353898,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
         },
         {
             "stock": "OIBR4F",
@@ -9291,16 +9291,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "COPH34",
-            "name": "COPHILLIPS DRN",
-            "close": 41.49,
-            "change": -1.9148913,
-            "volume": 2477,
-            "market_cap": 608707366636.2716,
-            "logo": "https://s3-symbol-logo.tradingview.com/conocophillips--big.svg",
-            "sector": "Energy Minerals"
-        },
-        {
             "stock": "RDPD11",
             "name": "FII BB PAPIICI",
             "close": 22.84,
@@ -9309,6 +9299,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "COPH34",
+            "name": "COPHILLIPS DRN",
+            "close": 41.49,
+            "change": -1.9148913,
+            "volume": 2477,
+            "market_cap": 608707366636.2716,
+            "logo": "https://s3-symbol-logo.tradingview.com/conocophillips--big.svg",
+            "sector": "Energy Minerals"
         },
         {
             "stock": "IRIM11",
@@ -9501,16 +9501,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "GEOO34",
-            "name": "GE DRN",
-            "close": 524.37,
-            "change": 2.21039108,
-            "volume": 2030,
-            "market_cap": 560091709751.7731,
-            "logo": "https://s3-symbol-logo.tradingview.com/general-electric--big.svg",
-            "sector": "Producer Manufacturing"
-        },
-        {
             "stock": "BIYW39",
             "name": "US TECHNOLOGDRE",
             "close": 14.91,
@@ -9519,6 +9509,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
+        },
+        {
+            "stock": "GEOO34",
+            "name": "GE DRN",
+            "close": 524.37,
+            "change": 2.21039108,
+            "volume": 2030,
+            "market_cap": 560091709751.7731,
+            "logo": "https://s3-symbol-logo.tradingview.com/general-electric--big.svg",
+            "sector": "Producer Manufacturing"
         },
         {
             "stock": "MELK3F",
@@ -9561,16 +9561,6 @@
             "sector": "Transportation"
         },
         {
-            "stock": "FRTA3",
-            "name": "POMIFRUTAS",
-            "close": 2.35,
-            "change": 0.42735043,
-            "volume": 2000,
-            "market_cap": 4805438,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
-        },
-        {
             "stock": "FSRF11",
             "name": "FISET FL REFCI",
             "close": 0.19,
@@ -9579,6 +9569,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fiset-fl-refci--big.svg",
             "sector": "Miscellaneous"
+        },
+        {
+            "stock": "FRTA3",
+            "name": "POMIFRUTAS",
+            "close": 2.35,
+            "change": 0.42735043,
+            "volume": 2000,
+            "market_cap": 4805438,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
         },
         {
             "stock": "FCFL11",
@@ -9701,16 +9701,6 @@
             "sector": "Distribution Services"
         },
         {
-            "stock": "CTNM4F",
-            "name": "COTEMINAS PN",
-            "close": 3.04,
-            "change": 7.4204947,
-            "volume": 1851,
-            "market_cap": 182868138,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Consumer Durables"
-        },
-        {
             "stock": "FSRF11F",
             "name": "FISET FL REFCI",
             "close": 0.2,
@@ -9719,6 +9709,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fiset-fl-refci--big.svg",
             "sector": "Miscellaneous"
+        },
+        {
+            "stock": "CTNM4F",
+            "name": "COTEMINAS PN",
+            "close": 3.04,
+            "change": 7.4204947,
+            "volume": 1851,
+            "market_cap": 182868138,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Consumer Durables"
         },
         {
             "stock": "RCSL3F",
@@ -9841,16 +9841,6 @@
             "sector": null
         },
         {
-            "stock": "M2RV34",
-            "name": "MARVELL TEC DRN",
-            "close": 30.6,
-            "change": 2.89172831,
-            "volume": 1727,
-            "market_cap": 254819662831.8136,
-            "logo": "https://s3-symbol-logo.tradingview.com/marvell-tech--big.svg",
-            "sector": "Electronic Technology"
-        },
-        {
             "stock": "NAVT11",
             "name": "FII NAVI TOTCI",
             "close": 80.05,
@@ -9859,6 +9849,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "M2RV34",
+            "name": "MARVELL TEC DRN",
+            "close": 30.6,
+            "change": 2.89172831,
+            "volume": 1727,
+            "market_cap": 254819662831.8136,
+            "logo": "https://s3-symbol-logo.tradingview.com/marvell-tech--big.svg",
+            "sector": "Electronic Technology"
         },
         {
             "stock": "EUCA3F",
@@ -10041,16 +10041,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "BALM4",
-            "name": "BAUMER PN",
-            "close": 9.55,
-            "change": 0.52631579,
-            "volume": 1500,
-            "market_cap": 96374518,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Health Technology"
-        },
-        {
             "stock": "SEED11",
             "name": "FII HEDGE SDCI",
             "close": 98.99,
@@ -10059,6 +10049,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "BALM4",
+            "name": "BAUMER PN",
+            "close": 9.55,
+            "change": 0.52631579,
+            "volume": 1500,
+            "market_cap": 96374518,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Health Technology"
         },
         {
             "stock": "SLED4F",
@@ -10131,16 +10131,6 @@
             "sector": "Retail Trade"
         },
         {
-            "stock": "TRPL3",
-            "name": "TRAN PAULISTON",
-            "close": 29.98,
-            "change": 0.23403544,
-            "volume": 1400,
-            "market_cap": 17497989317,
-            "logo": "https://s3-symbol-logo.tradingview.com/tran-paulistpn--big.svg",
-            "sector": "Utilities"
-        },
-        {
             "stock": "SCAR3",
             "name": "SAO CARLOS",
             "close": 19.6,
@@ -10149,6 +10139,16 @@
             "market_cap": 1105325296,
             "logo": "https://s3-symbol-logo.tradingview.com/sao-carlos-on-nm--big.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "TRPL3",
+            "name": "TRAN PAULISTON",
+            "close": 29.98,
+            "change": 0.23403544,
+            "volume": 1400,
+            "market_cap": 17497989317,
+            "logo": "https://s3-symbol-logo.tradingview.com/tran-paulistpn--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "CLSC4",
@@ -10341,16 +10341,6 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "REDE3",
-            "name": "REDE ENERGIAON",
-            "close": 5.75,
-            "change": -0.86206897,
-            "volume": 1200,
-            "market_cap": 12239875207,
-            "logo": "https://s3-symbol-logo.tradingview.com/rede-energiaon--big.svg",
-            "sector": "Utilities"
-        },
-        {
             "stock": "CEDO3",
             "name": "CEDRO",
             "close": 8.3,
@@ -10359,6 +10349,16 @@
             "market_cap": 77785356,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Process Industries"
+        },
+        {
+            "stock": "REDE3",
+            "name": "REDE ENERGIAON",
+            "close": 5.75,
+            "change": -0.86206897,
+            "volume": 1200,
+            "market_cap": 12239875207,
+            "logo": "https://s3-symbol-logo.tradingview.com/rede-energiaon--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "ATOM3F",
@@ -10551,16 +10551,6 @@
             "sector": null
         },
         {
-            "stock": "VSTE3F",
-            "name": "VESTE",
-            "close": 16.92,
-            "change": 2.35934045,
-            "volume": 1031,
-            "market_cap": 1916915000,
-            "logo": "https://s3-symbol-logo.tradingview.com/le-lis-blanc--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
             "stock": "INEP4F",
             "name": "INEPAR PN",
             "close": 0.79,
@@ -10569,6 +10559,16 @@
             "market_cap": 170744375,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Industrial Services"
+        },
+        {
+            "stock": "VSTE3F",
+            "name": "VESTE",
+            "close": 16.92,
+            "change": 2.35934045,
+            "volume": 1031,
+            "market_cap": 1916915000,
+            "logo": "https://s3-symbol-logo.tradingview.com/le-lis-blanc--big.svg",
+            "sector": "Consumer Non-Durables"
         },
         {
             "stock": "ESTR4F",
@@ -10581,16 +10581,6 @@
             "sector": "Consumer Durables"
         },
         {
-            "stock": "IRFM11",
-            "name": "IT NOW IRF-MF11",
-            "close": 74.71,
-            "change": 0.0133909,
-            "volume": 1026,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
             "stock": "MERC4F",
             "name": "MERC FINANC PN ED",
             "close": 7.43,
@@ -10599,6 +10589,16 @@
             "market_cap": 92242527,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "IRFM11",
+            "name": "IT NOW IRF-MF11",
+            "close": 74.71,
+            "change": 0.0133909,
+            "volume": 1026,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "sector": "Miscellaneous"
         },
         {
             "stock": "V1OD34",
@@ -10661,6 +10661,16 @@
             "sector": null
         },
         {
+            "stock": "CEBR5",
+            "name": "CEB PNA",
+            "close": 12.6,
+            "change": 0,
+            "volume": 1000,
+            "market_cap": 908275117,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Utilities"
+        },
+        {
             "stock": "CGRA3",
             "name": "GRAZZIOTIN",
             "close": 28.8,
@@ -10669,16 +10679,6 @@
             "market_cap": 549956199,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Retail Trade"
-        },
-        {
-            "stock": "CRPG6",
-            "name": "CRISTAL PNB",
-            "close": 37.99,
-            "change": 2.9260363,
-            "volume": 1000,
-            "market_cap": 1021119430,
-            "logo": "https://s3-symbol-logo.tradingview.com/cristal-pna--big.svg",
-            "sector": "Process Industries"
         },
         {
             "stock": "ENMT4",
@@ -10701,14 +10701,14 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "CEBR5",
-            "name": "CEB PNA",
-            "close": 12.6,
-            "change": 0,
+            "stock": "CRPG6",
+            "name": "CRISTAL PNB",
+            "close": 37.99,
+            "change": 2.9260363,
             "volume": 1000,
-            "market_cap": 908275117,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Utilities"
+            "market_cap": 1021119430,
+            "logo": "https://s3-symbol-logo.tradingview.com/cristal-pna--big.svg",
+            "sector": "Process Industries"
         },
         {
             "stock": "FSTU11F",
@@ -10781,16 +10781,6 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "D1EL34",
-            "name": "DELL TECHNOLDRN",
-            "close": 226.64,
-            "change": -2.41969786,
-            "volume": 905,
-            "market_cap": 166022670197.5684,
-            "logo": "https://s3-symbol-logo.tradingview.com/dell--big.svg",
-            "sector": "Electronic Technology"
-        },
-        {
             "stock": "MDLZ34",
             "name": "MONDELEZ INTDRN",
             "close": 184.25,
@@ -10809,6 +10799,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "D1EL34",
+            "name": "DELL TECHNOLDRN",
+            "close": 226.64,
+            "change": -2.41969786,
+            "volume": 901,
+            "market_cap": 166022670197.5684,
+            "logo": "https://s3-symbol-logo.tradingview.com/dell--big.svg",
+            "sector": "Electronic Technology"
         },
         {
             "stock": "EMAE4",
@@ -11301,16 +11301,6 @@
             "sector": "Utilities"
         },
         {
-            "stock": "FDMO34",
-            "name": "FORD MOTORS DRN",
-            "close": 60.51,
-            "change": -0.64039735,
-            "volume": 600,
-            "market_cap": 243207920298.88553,
-            "logo": "https://s3-symbol-logo.tradingview.com/ford--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
             "stock": "LKDV11",
             "name": "FII DEVE CI",
             "close": 969.58,
@@ -11329,6 +11319,16 @@
             "market_cap": 5190680299,
             "logo": "https://s3-symbol-logo.tradingview.com/brb-banco-pn--big.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "FDMO34",
+            "name": "FORD MOTORS DRN",
+            "close": 60.51,
+            "change": -0.64039735,
+            "volume": 600,
+            "market_cap": 243207920298.88553,
+            "logo": "https://s3-symbol-logo.tradingview.com/ford--big.svg",
+            "sector": "Consumer Durables"
         },
         {
             "stock": "SNSY5F",
@@ -11361,16 +11361,6 @@
             "sector": "Commercial Services"
         },
         {
-            "stock": "TGTB34",
-            "name": "TARGET CORP DRN",
-            "close": 656.6,
-            "change": -2.0204748,
-            "volume": 571,
-            "market_cap": 306139813333.3334,
-            "logo": "https://s3-symbol-logo.tradingview.com/target--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
             "stock": "BOVS11",
             "name": "SAFRAETFIBOVCI",
             "close": 85.06,
@@ -11379,6 +11369,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/safraetfelasci--big.svg",
             "sector": null
+        },
+        {
+            "stock": "TGTB34",
+            "name": "TARGET CORP DRN",
+            "close": 656.6,
+            "change": -2.0204748,
+            "volume": 571,
+            "market_cap": 306139813333.3334,
+            "logo": "https://s3-symbol-logo.tradingview.com/target--big.svg",
+            "sector": "Retail Trade"
         },
         {
             "stock": "HRDF11",
@@ -11541,6 +11541,16 @@
             "sector": "Consumer Non-Durables"
         },
         {
+            "stock": "CTKA4",
+            "name": "KARSTEN PN",
+            "close": 10.5,
+            "change": -4.54545455,
+            "volume": 500,
+            "market_cap": 94107109,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
+        },
+        {
             "stock": "EALT3",
             "name": "ACO ALTONA",
             "close": 8.54,
@@ -11559,16 +11569,6 @@
             "market_cap": 381515844,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
-        },
-        {
-            "stock": "CTKA4",
-            "name": "KARSTEN PN",
-            "close": 10.5,
-            "change": -4.54545455,
-            "volume": 500,
-            "market_cap": 94107109,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
         },
         {
             "stock": "MNPR3",
@@ -11655,7 +11655,7 @@
             "name": "GOLDMANSACHSDRN",
             "close": 52.9,
             "change": -3.37899543,
-            "volume": 473,
+            "volume": 472,
             "market_cap": 545491054670.7194,
             "logo": "https://s3-symbol-logo.tradingview.com/golden-sachs-etf-trust-goldman--big.svg",
             "sector": "Finance"
@@ -11901,6 +11901,16 @@
             "sector": null
         },
         {
+            "stock": "LIPR3",
+            "name": "ELETROPAR",
+            "close": 72.1,
+            "change": 0.13888889,
+            "volume": 400,
+            "market_cap": 847071991,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Utilities"
+        },
+        {
             "stock": "UNIP5",
             "name": "UNIPAR PNA",
             "close": 80,
@@ -11921,14 +11931,14 @@
             "sector": null
         },
         {
-            "stock": "LIPR3",
-            "name": "ELETROPAR",
-            "close": 72.1,
-            "change": 0.13888889,
+            "stock": "BBUG39",
+            "name": "GX CYBERSECTDRE",
+            "close": 40.12,
+            "change": -1.66666426,
             "volume": 400,
-            "market_cap": 847071991,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Utilities"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
         },
         {
             "stock": "HBTS5",
@@ -11939,16 +11949,6 @@
             "market_cap": 190350957,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
-        },
-        {
-            "stock": "BBUG39",
-            "name": "GX CYBERSECTDRE",
-            "close": 40.12,
-            "change": -1.66666426,
-            "volume": 400,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
         },
         {
             "stock": "BIOM3F",
@@ -12101,16 +12101,6 @@
             "sector": "Process Industries"
         },
         {
-            "stock": "BSLI4F",
-            "name": "BRB BANCO PN",
-            "close": 11.89,
-            "change": 1.71086399,
-            "volume": 325,
-            "market_cap": 5190680299,
-            "logo": "https://s3-symbol-logo.tradingview.com/brb-banco-pn--big.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "DVFF11",
             "name": "FII DEVA FOFCI",
             "close": 75.46,
@@ -12119,6 +12109,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": "Miscellaneous"
+        },
+        {
+            "stock": "BSLI4F",
+            "name": "BRB BANCO PN",
+            "close": 11.89,
+            "change": 1.71086399,
+            "volume": 325,
+            "market_cap": 5190680299,
+            "logo": "https://s3-symbol-logo.tradingview.com/brb-banco-pn--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "RIOT34",
@@ -12201,16 +12201,6 @@
             "sector": "Retail Trade"
         },
         {
-            "stock": "EKTR4",
-            "name": "ELEKTRO PN",
-            "close": 38.4,
-            "change": 1.05263158,
-            "volume": 300,
-            "market_cap": 7079858682,
-            "logo": "https://s3-symbol-logo.tradingview.com/elektro-pn--big.svg",
-            "sector": "Utilities"
-        },
-        {
             "stock": "SLED3",
             "name": "SARAIVA LIVRON",
             "close": 7,
@@ -12219,6 +12209,16 @@
             "market_cap": 13566468,
             "logo": "https://s3-symbol-logo.tradingview.com/saraiva--big.svg",
             "sector": "Retail Trade"
+        },
+        {
+            "stock": "EKTR4",
+            "name": "ELEKTRO PN",
+            "close": 38.4,
+            "change": 1.05263158,
+            "volume": 300,
+            "market_cap": 7079858682,
+            "logo": "https://s3-symbol-logo.tradingview.com/elektro-pn--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "BAUH4",
@@ -12291,6 +12291,16 @@
             "sector": "Retail Trade"
         },
         {
+            "stock": "YDRO11",
+            "name": "IT NOW HYDROCI",
+            "close": 34.51,
+            "change": 0.61224783,
+            "volume": 272,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
             "stock": "BREW11",
             "name": "B INDEX BREWCI",
             "close": 108.96,
@@ -12309,16 +12319,6 @@
             "market_cap": 115236612239.10841,
             "logo": "https://s3-symbol-logo.tradingview.com/ebay--big.svg",
             "sector": "Retail Trade"
-        },
-        {
-            "stock": "YDRO11",
-            "name": "IT NOW HYDROCI",
-            "close": 34.51,
-            "change": 0.61224783,
-            "volume": 272,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
-            "sector": "Miscellaneous"
         },
         {
             "stock": "MFAI11",
@@ -12471,16 +12471,6 @@
             "sector": "Retail Trade"
         },
         {
-            "stock": "WHRL3F",
-            "name": "WHIRLPOOL",
-            "close": 4.55,
-            "change": 2.01793722,
-            "volume": 220,
-            "market_cap": 6731675942,
-            "logo": "https://s3-symbol-logo.tradingview.com/whirlpool-on--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
             "stock": "META11",
             "name": "META HASH CI",
             "close": 30.01,
@@ -12489,6 +12479,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/hashdex--big.svg",
             "sector": null
+        },
+        {
+            "stock": "WHRL3F",
+            "name": "WHIRLPOOL",
+            "close": 4.55,
+            "change": 2.01793722,
+            "volume": 220,
+            "market_cap": 6731675942,
+            "logo": "https://s3-symbol-logo.tradingview.com/whirlpool-on--big.svg",
+            "sector": "Consumer Durables"
         },
         {
             "stock": "UNIP5F",
@@ -12531,6 +12531,16 @@
             "sector": null
         },
         {
+            "stock": "NCRI11",
+            "name": "FII NAVI CRICI",
+            "close": 8.42,
+            "change": -2.99539171,
+            "volume": 207,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": null
+        },
+        {
             "stock": "PTNT4F",
             "name": "PETTENATI PN",
             "close": 6.48,
@@ -12541,11 +12551,11 @@
             "sector": "Process Industries"
         },
         {
-            "stock": "NCRI11",
-            "name": "FII NAVI CRICI",
-            "close": 8.42,
-            "change": -2.99539171,
-            "volume": 207,
+            "stock": "BDEF11",
+            "name": "B INDEX DEFECI",
+            "close": 107.17,
+            "change": 1.29489603,
+            "volume": 205,
             "market_cap": null,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": null
@@ -12558,16 +12568,6 @@
             "volume": 205,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "BDEF11",
-            "name": "B INDEX DEFECI",
-            "close": 107.17,
-            "change": 1.29489603,
-            "volume": 205,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
             "sector": null
         },
         {
@@ -12621,14 +12621,14 @@
             "sector": "Finance"
         },
         {
-            "stock": "GOVE11",
-            "name": "IT NOW IGCT CI",
-            "close": 48.06,
-            "change": 1.80046816,
+            "stock": "WHRL3",
+            "name": "WHIRLPOOL",
+            "close": 4.45,
+            "change": -0.44742729,
             "volume": 200,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
-            "sector": "Miscellaneous"
+            "market_cap": 6731675942,
+            "logo": "https://s3-symbol-logo.tradingview.com/whirlpool-on--big.svg",
+            "sector": "Consumer Durables"
         },
         {
             "stock": "CEEB3",
@@ -12641,14 +12641,14 @@
             "sector": "Utilities"
         },
         {
-            "stock": "PEAB4",
-            "name": "PAR AL BAHIAPN",
-            "close": 57.01,
-            "change": -18.54550417,
+            "stock": "GOVE11",
+            "name": "IT NOW IGCT CI",
+            "close": 48.06,
+            "change": 1.80046816,
             "volume": 200,
-            "market_cap": 643734663,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "sector": "Miscellaneous"
         },
         {
             "stock": "CGAS5",
@@ -12661,14 +12661,24 @@
             "sector": "Utilities"
         },
         {
-            "stock": "WHRL3",
-            "name": "WHIRLPOOL",
-            "close": 4.45,
-            "change": -0.44742729,
+            "stock": "D1DG34",
+            "name": "DATADOG INC DRN",
+            "close": 47.84,
+            "change": 4.68271106,
             "volume": 200,
-            "market_cap": 6731675942,
-            "logo": "https://s3-symbol-logo.tradingview.com/whirlpool-on--big.svg",
-            "sector": "Consumer Durables"
+            "market_cap": 154700719148.9362,
+            "logo": "https://s3-symbol-logo.tradingview.com/datadog--big.svg",
+            "sector": "Technology Services"
+        },
+        {
+            "stock": "PEAB4",
+            "name": "PAR AL BAHIAPN",
+            "close": 57.01,
+            "change": -18.54550417,
+            "volume": 200,
+            "market_cap": 643734663,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
         },
         {
             "stock": "PSVM11",
@@ -12681,16 +12691,6 @@
             "sector": "Transportation"
         },
         {
-            "stock": "D1DG34",
-            "name": "DATADOG INC DRN",
-            "close": 47.84,
-            "change": 4.68271106,
-            "volume": 200,
-            "market_cap": 154700719148.9362,
-            "logo": "https://s3-symbol-logo.tradingview.com/datadog--big.svg",
-            "sector": "Technology Services"
-        },
-        {
             "stock": "BGIP3",
             "name": "BANESE",
             "close": 27.98,
@@ -12701,16 +12701,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "GEPA4F",
-            "name": "GER PARANAP PN",
-            "close": 24.3,
-            "change": -5.77743677,
-            "volume": 197,
-            "market_cap": 2376570904,
-            "logo": "https://s3-symbol-logo.tradingview.com/ger-paranap-pn--big.svg",
-            "sector": "Utilities"
-        },
-        {
             "stock": "DNAI11",
             "name": "IT NOW DNA CI",
             "close": 32.11,
@@ -12719,6 +12709,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
             "sector": null
+        },
+        {
+            "stock": "GEPA4F",
+            "name": "GER PARANAP PN",
+            "close": 24.3,
+            "change": -5.77743677,
+            "volume": 197,
+            "market_cap": 2376570904,
+            "logo": "https://s3-symbol-logo.tradingview.com/ger-paranap-pn--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "HOOT4F",
@@ -12871,16 +12871,6 @@
             "sector": null
         },
         {
-            "stock": "HBRE3F",
-            "name": "HBR REALTY",
-            "close": 4.46,
-            "change": 0.90497738,
-            "volume": 164,
-            "market_cap": 454031556,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "BEEM39",
             "name": "MSCI EMGMARKDRE",
             "close": 32.44,
@@ -12889,6 +12879,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
+        },
+        {
+            "stock": "HBRE3F",
+            "name": "HBR REALTY",
+            "close": 4.46,
+            "change": 0.90497738,
+            "volume": 164,
+            "market_cap": 454031556,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
         },
         {
             "stock": "FDES11F",
@@ -12931,16 +12931,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "BSLI3F",
-            "name": "BRB BANCO",
-            "close": 15,
-            "change": -2.72373541,
-            "volume": 157,
-            "market_cap": 5190680299,
-            "logo": "https://s3-symbol-logo.tradingview.com/brb-banco-pn--big.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "CEEB3F",
             "name": "COELBA",
             "close": 38.63,
@@ -12951,14 +12941,14 @@
             "sector": "Utilities"
         },
         {
-            "stock": "FZDA11",
-            "name": "FIAGRO 051 CI",
-            "close": 125,
-            "change": 0,
-            "volume": 155,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/banco-do-brasil--big.svg",
-            "sector": null
+            "stock": "BSLI3F",
+            "name": "BRB BANCO",
+            "close": 15,
+            "change": -2.72373541,
+            "volume": 157,
+            "market_cap": 5190680299,
+            "logo": "https://s3-symbol-logo.tradingview.com/brb-banco-pn--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "BAHI3F",
@@ -12971,13 +12961,13 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "DAMT11B",
-            "name": "DIAMANTE FUNDO INV",
-            "close": 18.75,
-            "change": -3.84615385,
-            "volume": 153,
+            "stock": "FZDA11",
+            "name": "FIAGRO 051 CI",
+            "close": 125,
+            "change": 0,
+            "volume": 155,
             "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
+            "logo": "https://s3-symbol-logo.tradingview.com/banco-do-brasil--big.svg",
             "sector": null
         },
         {
@@ -12989,6 +12979,16 @@
             "market_cap": 2032985319,
             "logo": "https://s3-symbol-logo.tradingview.com/celesc-on-n2--big.svg",
             "sector": "Utilities"
+        },
+        {
+            "stock": "DAMT11B",
+            "name": "DIAMANTE FUNDO INV",
+            "close": 18.75,
+            "change": -3.84615385,
+            "volume": 153,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
+            "sector": null
         },
         {
             "stock": "PTNT3F",
@@ -13031,20 +13031,20 @@
             "sector": null
         },
         {
-            "stock": "SCPF11",
-            "name": "FII SCP CI",
-            "close": 5.43,
-            "change": 0.74211503,
+            "stock": "RPRI11",
+            "name": "FII RBR PR CI",
+            "close": 96.49,
+            "change": -0.5257732,
             "volume": 143,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
         },
         {
-            "stock": "RPRI11",
-            "name": "FII RBR PR CI",
-            "close": 96.49,
-            "change": -0.5257732,
+            "stock": "SCPF11",
+            "name": "FII SCP CI",
+            "close": 5.43,
+            "change": 0.74211503,
             "volume": 143,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
@@ -13061,16 +13061,6 @@
             "sector": null
         },
         {
-            "stock": "E2XA34",
-            "name": "EXACT SCIENCDRN",
-            "close": 41.39,
-            "change": -0.26506024,
-            "volume": 140,
-            "market_cap": 74549478738.60182,
-            "logo": "https://s3-symbol-logo.tradingview.com/exact-sciences--big.svg",
-            "sector": "Health Technology"
-        },
-        {
             "stock": "H2UB34",
             "name": "HUBSPOT INC DRN",
             "close": 52.55,
@@ -13079,6 +13069,16 @@
             "market_cap": 130255030719.35158,
             "logo": "https://s3-symbol-logo.tradingview.com/hubspot--big.svg",
             "sector": "Technology Services"
+        },
+        {
+            "stock": "E2XA34",
+            "name": "EXACT SCIENCDRN",
+            "close": 41.39,
+            "change": -0.26506024,
+            "volume": 140,
+            "market_cap": 74549478738.60182,
+            "logo": "https://s3-symbol-logo.tradingview.com/exact-sciences--big.svg",
+            "sector": "Health Technology"
         },
         {
             "stock": "QAMI11",
@@ -13181,16 +13181,6 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "RSUL4F",
-            "name": "RIOSULENSE PN",
-            "close": 65.51,
-            "change": 3.10040757,
-            "volume": 111,
-            "market_cap": 161420112,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Producer Manufacturing"
-        },
-        {
             "stock": "BMMT11",
             "name": "B INDEX MOMECI",
             "close": 96.81,
@@ -13201,14 +13191,14 @@
             "sector": null
         },
         {
-            "stock": "AALL34",
-            "name": "AMERICAN AIRDRN",
-            "close": 73.35,
-            "change": -2.09556599,
-            "volume": 110,
-            "market_cap": 48882003014.18439,
-            "logo": "https://s3-symbol-logo.tradingview.com/american-airlines-group--big.svg",
-            "sector": "Transportation"
+            "stock": "RSUL4F",
+            "name": "RIOSULENSE PN",
+            "close": 65.51,
+            "change": 3.10040757,
+            "volume": 111,
+            "market_cap": 161420112,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Producer Manufacturing"
         },
         {
             "stock": "BGIP4F",
@@ -13219,6 +13209,16 @@
             "market_cap": 381515844,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "AALL34",
+            "name": "AMERICAN AIRDRN",
+            "close": 73.35,
+            "change": -2.09556599,
+            "volume": 110,
+            "market_cap": 48882003014.18439,
+            "logo": "https://s3-symbol-logo.tradingview.com/american-airlines-group--big.svg",
+            "sector": "Transportation"
         },
         {
             "stock": "CRPG6F",
@@ -13261,16 +13261,6 @@
             "sector": "Health Technology"
         },
         {
-            "stock": "TMPS11",
-            "name": "FII ITAU TEMCI",
-            "close": 108,
-            "change": -1.071723,
-            "volume": 105,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": null
-        },
-        {
             "stock": "S2UI34",
             "name": "SUN COMMUN DRN",
             "close": 32.01,
@@ -13281,14 +13271,14 @@
             "sector": "Finance"
         },
         {
-            "stock": "T1TW34",
-            "name": "TAKE-TWO INTDRN",
-            "close": 171.74,
-            "change": -1.82358097,
+            "stock": "BRSR5F",
+            "name": "BANRISUL PNA",
+            "close": 18.33,
+            "change": 0.43835616,
             "volume": 105,
-            "market_cap": 118147478221.8845,
-            "logo": "https://s3-symbol-logo.tradingview.com/take-two-interactive-software--big.svg",
-            "sector": "Technology Services"
+            "market_cap": 5246917074,
+            "logo": "https://s3-symbol-logo.tradingview.com/banrisul--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "BCIC11",
@@ -13301,14 +13291,24 @@
             "sector": null
         },
         {
-            "stock": "BRSR5F",
-            "name": "BANRISUL PNA",
-            "close": 18.33,
-            "change": 0.43835616,
+            "stock": "TMPS11",
+            "name": "FII ITAU TEMCI",
+            "close": 108,
+            "change": -1.071723,
             "volume": 105,
-            "market_cap": 5246917074,
-            "logo": "https://s3-symbol-logo.tradingview.com/banrisul--big.svg",
-            "sector": "Finance"
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": null
+        },
+        {
+            "stock": "T1TW34",
+            "name": "TAKE-TWO INTDRN",
+            "close": 171.74,
+            "change": -1.82358097,
+            "volume": 105,
+            "market_cap": 118147478221.8845,
+            "logo": "https://s3-symbol-logo.tradingview.com/take-two-interactive-software--big.svg",
+            "sector": "Technology Services"
         },
         {
             "stock": "NEXT34",
@@ -13361,16 +13361,6 @@
             "sector": "Electronic Technology"
         },
         {
-            "stock": "SVAL11",
-            "name": "INVESTO SVALCI",
-            "close": 95.39,
-            "change": -0.59399646,
-            "volume": 101,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
-            "sector": null
-        },
-        {
             "stock": "P2EN34",
             "name": "PENN NATIONLDRN",
             "close": 12.59,
@@ -13381,14 +13371,14 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "BMIN3",
-            "name": "MERC INVEST",
-            "close": 17.51,
-            "change": -0.28473236,
-            "volume": 100,
-            "market_cap": 81918344,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
+            "stock": "SVAL11",
+            "name": "INVESTO SVALCI",
+            "close": 95.39,
+            "change": -0.59399646,
+            "volume": 101,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
+            "sector": null
         },
         {
             "stock": "BRKM6",
@@ -13401,6 +13391,16 @@
             "sector": "Process Industries"
         },
         {
+            "stock": "BMIN3",
+            "name": "MERC INVEST",
+            "close": 17.51,
+            "change": -0.28473236,
+            "volume": 100,
+            "market_cap": 81918344,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
+        },
+        {
             "stock": "BFDL39",
             "name": "FTMOR DV LEADRE",
             "close": 41.7,
@@ -13411,16 +13411,6 @@
             "sector": null
         },
         {
-            "stock": "PEAB3",
-            "name": "PAR AL BAHIAON",
-            "close": 31.9,
-            "change": 5.62913558,
-            "volume": 100,
-            "market_cap": 643734663,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "CSRN5",
             "name": "COSERN PNA",
             "close": 23.11,
@@ -13429,6 +13419,16 @@
             "market_cap": 3701991831,
             "logo": "https://s3-symbol-logo.tradingview.com/cosern-on--big.svg",
             "sector": "Utilities"
+        },
+        {
+            "stock": "PEAB3",
+            "name": "PAR AL BAHIAON",
+            "close": 31.9,
+            "change": 5.62913558,
+            "volume": 100,
+            "market_cap": 643734663,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
         },
         {
             "stock": "CRDE3",
@@ -13531,16 +13531,6 @@
             "sector": null
         },
         {
-            "stock": "MNPR3F",
-            "name": "MINUPAR",
-            "close": 9.35,
-            "change": -4.1025641,
-            "volume": 80,
-            "market_cap": 66172929.99999999,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
-        },
-        {
             "stock": "CGAS3F",
             "name": "COMGAS",
             "close": 119.1,
@@ -13549,6 +13539,16 @@
             "market_cap": 15046285140,
             "logo": "https://s3-symbol-logo.tradingview.com/comgas-on--big.svg",
             "sector": "Utilities"
+        },
+        {
+            "stock": "MNPR3F",
+            "name": "MINUPAR",
+            "close": 9.35,
+            "change": -4.1025641,
+            "volume": 80,
+            "market_cap": 66172929.99999999,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
         },
         {
             "stock": "PEAB3F",
@@ -13631,16 +13631,6 @@
             "sector": "Utilities"
         },
         {
-            "stock": "ONEF11",
-            "name": "FII THEE CI",
-            "close": 183.48,
-            "change": -0.13606923,
-            "volume": 72,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
             "stock": "E2TS34",
             "name": "ETSY INC DRN",
             "close": 27.54,
@@ -13649,6 +13639,16 @@
             "market_cap": 50646769721.37791,
             "logo": "https://s3-symbol-logo.tradingview.com/etsy--big.svg",
             "sector": "Retail Trade"
+        },
+        {
+            "stock": "ONEF11",
+            "name": "FII THEE CI",
+            "close": 183.48,
+            "change": -0.13606923,
+            "volume": 72,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
         },
         {
             "stock": "XBOV11",
@@ -13661,16 +13661,6 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "ABUD34",
-            "name": "AB INBEV DRN",
-            "close": 45,
-            "change": -0.33223033,
-            "volume": 71,
-            "market_cap": 535188244837.6849,
-            "logo": "https://s3-symbol-logo.tradingview.com/anheuser-busch-inbev--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
             "stock": "IGBR3F",
             "name": "IGB S/A",
             "close": 120.01,
@@ -13679,6 +13669,16 @@
             "market_cap": 161689140,
             "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "ABUD34",
+            "name": "AB INBEV DRN",
+            "close": 45,
+            "change": -0.33223033,
+            "volume": 71,
+            "market_cap": 535188244837.6849,
+            "logo": "https://s3-symbol-logo.tradingview.com/anheuser-busch-inbev--big.svg",
+            "sector": "Consumer Non-Durables"
         },
         {
             "stock": "RBOP11",
@@ -13731,16 +13731,6 @@
             "sector": null
         },
         {
-            "stock": "STZB34",
-            "name": "CONSTELLATIODRN",
-            "close": 303.67,
-            "change": -0.66405297,
-            "volume": 65,
-            "market_cap": 225556410911.85413,
-            "logo": "https://s3-symbol-logo.tradingview.com/constellation-brands--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
             "stock": "USDB11",
             "name": "INVESTO USDBCI",
             "close": 90.36,
@@ -13751,14 +13741,14 @@
             "sector": null
         },
         {
-            "stock": "CXCE11B",
-            "name": "FD INV IMOB CAIXA",
-            "close": 40.39,
-            "change": -0.27160494,
-            "volume": 64,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
-            "sector": null
+            "stock": "STZB34",
+            "name": "CONSTELLATIODRN",
+            "close": 303.67,
+            "change": -0.66405297,
+            "volume": 65,
+            "market_cap": 225556410911.85413,
+            "logo": "https://s3-symbol-logo.tradingview.com/constellation-brands--big.svg",
+            "sector": "Consumer Non-Durables"
         },
         {
             "stock": "FCXO34",
@@ -13769,6 +13759,16 @@
             "market_cap": 249336627208.7133,
             "logo": "https://s3-symbol-logo.tradingview.com/freeport-mcmoran--big.svg",
             "sector": "Non-Energy Minerals"
+        },
+        {
+            "stock": "CXCE11B",
+            "name": "FD INV IMOB CAIXA",
+            "close": 40.39,
+            "change": -0.27160494,
+            "volume": 64,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
+            "sector": null
         },
         {
             "stock": "TKNO4F",
@@ -13791,16 +13791,6 @@
             "sector": "Health Services"
         },
         {
-            "stock": "EVBI11",
-            "name": "FII VBI CON CI",
-            "close": 96.05,
-            "change": -0.77479646,
-            "volume": 62,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
             "stock": "S1BS34",
             "name": "SIBANYE STILDRN",
             "close": 18.2,
@@ -13819,6 +13809,26 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "EVBI11",
+            "name": "FII VBI CON CI",
+            "close": 96.05,
+            "change": -0.77479646,
+            "volume": 62,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "SLED3F",
+            "name": "SARAIVA LIVRON",
+            "close": 6.74,
+            "change": -2.60115607,
+            "volume": 61,
+            "market_cap": 13566468,
+            "logo": "https://s3-symbol-logo.tradingview.com/saraiva--big.svg",
+            "sector": "Retail Trade"
         },
         {
             "stock": "U1RI34",
@@ -13841,14 +13851,14 @@
             "sector": "Finance"
         },
         {
-            "stock": "SLED3F",
-            "name": "SARAIVA LIVRON",
-            "close": 6.74,
-            "change": -2.60115607,
-            "volume": 61,
-            "market_cap": 13566468,
-            "logo": "https://s3-symbol-logo.tradingview.com/saraiva--big.svg",
-            "sector": "Retail Trade"
+            "stock": "R1IN34",
+            "name": "REALTY INCOMDRN",
+            "close": 148.8,
+            "change": -2.16963168,
+            "volume": 60,
+            "market_cap": 202717035861.19556,
+            "logo": "https://s3-symbol-logo.tradingview.com/realty-income--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "HBTS5F",
@@ -13858,16 +13868,6 @@
             "volume": 60,
             "market_cap": 190350957,
             "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "R1IN34",
-            "name": "REALTY INCOMDRN",
-            "close": 148.8,
-            "change": -2.16963168,
-            "volume": 60,
-            "market_cap": 202717035861.19556,
-            "logo": "https://s3-symbol-logo.tradingview.com/realty-income--big.svg",
             "sector": "Finance"
         },
         {
@@ -13901,16 +13901,6 @@
             "sector": "Electronic Technology"
         },
         {
-            "stock": "S1MF34",
-            "name": "SUMITOMO MITDRN",
-            "close": 41.62,
-            "change": 4.05,
-            "volume": 58,
-            "market_cap": 283020118313.7778,
-            "logo": "https://s3-symbol-logo.tradingview.com/sumitomo-mitsui--big.svg",
-            "sector": "Finance"
-        },
-        {
             "stock": "INTU34",
             "name": "INTUIT INC DRN",
             "close": 48.42,
@@ -13921,14 +13911,14 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "BRKM6F",
-            "name": "BRASKEM PNB",
-            "close": 19.5,
-            "change": -2.74313729,
-            "volume": 56,
-            "market_cap": 17929574348,
-            "logo": "https://s3-symbol-logo.tradingview.com/braskem--big.svg",
-            "sector": "Process Industries"
+            "stock": "S1MF34",
+            "name": "SUMITOMO MITDRN",
+            "close": 41.62,
+            "change": 4.05,
+            "volume": 58,
+            "market_cap": 283020118313.7778,
+            "logo": "https://s3-symbol-logo.tradingview.com/sumitomo-mitsui--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "CSRN5F",
@@ -13961,6 +13951,16 @@
             "sector": "Finance"
         },
         {
+            "stock": "BRKM6F",
+            "name": "BRASKEM PNB",
+            "close": 19.5,
+            "change": -2.74313729,
+            "volume": 56,
+            "market_cap": 17929574348,
+            "logo": "https://s3-symbol-logo.tradingview.com/braskem--big.svg",
+            "sector": "Process Industries"
+        },
+        {
             "stock": "AVLL3F",
             "name": "ALPHAVILLE",
             "close": 3.8,
@@ -13991,16 +13991,6 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "GPAR3F",
-            "name": "CELGPAR",
-            "close": 62.04,
-            "change": -4.53915693,
-            "volume": 52,
-            "market_cap": 3267539037,
-            "logo": "https://s3-symbol-logo.tradingview.com/celgpar-on--big.svg",
-            "sector": "Utilities"
-        },
-        {
             "stock": "IGTI4F",
             "name": "IGUATEMI S.APN",
             "close": 9.5,
@@ -14009,6 +13999,16 @@
             "market_cap": 4749168742,
             "logo": "https://s3-symbol-logo.tradingview.com/iguatemi-saon-n1--big.svg",
             "sector": "Finance"
+        },
+        {
+            "stock": "GPAR3F",
+            "name": "CELGPAR",
+            "close": 62.04,
+            "change": -4.53915693,
+            "volume": 52,
+            "market_cap": 3267539037,
+            "logo": "https://s3-symbol-logo.tradingview.com/celgpar-on--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "N1OW34",
@@ -14151,16 +14151,6 @@
             "sector": "Utilities"
         },
         {
-            "stock": "BLQD39",
-            "name": "BKR IBOX IGCDRE",
-            "close": 56.78,
-            "change": 3.14259951,
-            "volume": 38,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
             "stock": "W1IX34",
             "name": "WIX.COM LTD DRN",
             "close": 12.69,
@@ -14169,6 +14159,16 @@
             "market_cap": 21939569594.73151,
             "logo": "https://s3-symbol-logo.tradingview.com/wix--big.svg",
             "sector": "Technology Services"
+        },
+        {
+            "stock": "BLQD39",
+            "name": "BKR IBOX IGCDRE",
+            "close": 56.78,
+            "change": 3.14259951,
+            "volume": 38,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
         },
         {
             "stock": "RECX11",
@@ -14181,24 +14181,14 @@
             "sector": null
         },
         {
-            "stock": "FMOF11",
-            "name": "FII MEMORIALCI",
-            "close": 49.94,
-            "change": 1.15454934,
+            "stock": "CLSC3F",
+            "name": "CELESC",
+            "close": 52.99,
+            "change": 0.95255855,
             "volume": 37,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "V2MW34",
-            "name": "VMWARE INC DRN",
-            "close": 56.27,
-            "change": -0.89820185,
-            "volume": 37,
-            "market_cap": 295835842639.3111,
-            "logo": "https://s3-symbol-logo.tradingview.com/vmware--big.svg",
-            "sector": "Technology Services"
+            "market_cap": 2032985319,
+            "logo": "https://s3-symbol-logo.tradingview.com/celesc-on-n2--big.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "G1DS34",
@@ -14211,14 +14201,24 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "CLSC3F",
-            "name": "CELESC",
-            "close": 52.99,
-            "change": 0.95255855,
+            "stock": "FPOR11",
+            "name": "FIP PORT SUDCI",
+            "close": 5.9,
+            "change": 2.60869565,
             "volume": 37,
-            "market_cap": 2032985319,
-            "logo": "https://s3-symbol-logo.tradingview.com/celesc-on-n2--big.svg",
-            "sector": "Utilities"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "V2MW34",
+            "name": "VMWARE INC DRN",
+            "close": 56.27,
+            "change": -0.89820185,
+            "volume": 37,
+            "market_cap": 295835842639.3111,
+            "logo": "https://s3-symbol-logo.tradingview.com/vmware--big.svg",
+            "sector": "Technology Services"
         },
         {
             "stock": "PEAB4F",
@@ -14231,14 +14231,14 @@
             "sector": "Finance"
         },
         {
-            "stock": "FPOR11",
-            "name": "FIP PORT SUDCI",
-            "close": 5.9,
-            "change": 2.60869565,
+            "stock": "FMOF11",
+            "name": "FII MEMORIALCI",
+            "close": 49.94,
+            "change": 1.15454934,
             "volume": 37,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
+            "sector": "Miscellaneous"
         },
         {
             "stock": "SHPH11",
@@ -14261,16 +14261,6 @@
             "sector": null
         },
         {
-            "stock": "A1CR34",
-            "name": "AMCOR PLC DRN ED",
-            "close": 48.9,
-            "change": -0.20408163,
-            "volume": 33,
-            "market_cap": 71857740729.48329,
-            "logo": "https://s3-symbol-logo.tradingview.com/amcor--big.svg",
-            "sector": "Process Industries"
-        },
-        {
             "stock": "IBMB34",
             "name": "IBM DRN",
             "close": 650,
@@ -14281,6 +14271,16 @@
             "sector": "Technology Services"
         },
         {
+            "stock": "A1CR34",
+            "name": "AMCOR PLC DRN ED",
+            "close": 48.9,
+            "change": -0.20408163,
+            "volume": 33,
+            "market_cap": 71857740729.48329,
+            "logo": "https://s3-symbol-logo.tradingview.com/amcor--big.svg",
+            "sector": "Process Industries"
+        },
+        {
             "stock": "PEMA11",
             "name": "FII PERFORMACI",
             "close": 45.02,
@@ -14289,6 +14289,16 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
+        },
+        {
+            "stock": "B1AM34",
+            "name": "BROOKFIELD CDRN",
+            "close": 38.37,
+            "change": -0.18209938,
+            "volume": 31,
+            "market_cap": 249117514909.81564,
+            "logo": "https://s3-symbol-logo.tradingview.com/brookfield--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "EKTR4F",
@@ -14311,14 +14321,14 @@
             "sector": null
         },
         {
-            "stock": "B1AM34",
-            "name": "BROOKFIELD CDRN",
-            "close": 38.37,
-            "change": -0.18209938,
-            "volume": 31,
-            "market_cap": 249117514909.81564,
-            "logo": "https://s3-symbol-logo.tradingview.com/brookfield--big.svg",
-            "sector": "Finance"
+            "stock": "DTCY3F",
+            "name": "DTCOM-DIRECTON",
+            "close": 5.67,
+            "change": 1.25,
+            "volume": 30,
+            "market_cap": 62032383,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Communications"
         },
         {
             "stock": "L2AZ34",
@@ -14331,16 +14341,6 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "RBRS11",
-            "name": "FII RIOB RR CI",
-            "close": 52.35,
-            "change": -4.45336915,
-            "volume": 30,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
             "stock": "F1TN34",
             "name": "FORTINET INCDRN",
             "close": 171.5,
@@ -14351,14 +14351,14 @@
             "sector": "Electronic Technology"
         },
         {
-            "stock": "DTCY3F",
-            "name": "DTCOM-DIRECTON",
-            "close": 5.67,
-            "change": 1.25,
+            "stock": "RBRS11",
+            "name": "FII RIOB RR CI",
+            "close": 52.35,
+            "change": -4.45336915,
             "volume": 30,
-            "market_cap": 62032383,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Communications"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
         },
         {
             "stock": "CLOV34",
@@ -14371,6 +14371,16 @@
             "sector": "Finance"
         },
         {
+            "stock": "TSNF34",
+            "name": "TYSON FOODS DRN",
+            "close": 254.54,
+            "change": -2.96953848,
+            "volume": 29,
+            "market_cap": 89430562487.33539,
+            "logo": "https://s3-symbol-logo.tradingview.com/tyson-foods--big.svg",
+            "sector": "Consumer Non-Durables"
+        },
+        {
             "stock": "AZOI34",
             "name": "AUTOZONE INCDRN",
             "close": 54.5,
@@ -14379,16 +14389,6 @@
             "market_cap": 222453799422.49243,
             "logo": "https://s3-symbol-logo.tradingview.com/autozone--big.svg",
             "sector": "Retail Trade"
-        },
-        {
-            "stock": "E1WL34",
-            "name": "EDWARDS LIFEDRN",
-            "close": 106.7,
-            "change": 0.18779343,
-            "volume": 29,
-            "market_cap": 258671535354.60995,
-            "logo": "https://s3-symbol-logo.tradingview.com/edwards--big.svg",
-            "sector": "Health Technology"
         },
         {
             "stock": "BNDX11",
@@ -14401,24 +14401,24 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "TSNF34",
-            "name": "TYSON FOODS DRN",
-            "close": 254.54,
-            "change": -2.96953848,
+            "stock": "E1WL34",
+            "name": "EDWARDS LIFEDRN",
+            "close": 106.7,
+            "change": 0.18779343,
             "volume": 29,
-            "market_cap": 89430562487.33539,
-            "logo": "https://s3-symbol-logo.tradingview.com/tyson-foods--big.svg",
-            "sector": "Consumer Non-Durables"
+            "market_cap": 258671535354.60995,
+            "logo": "https://s3-symbol-logo.tradingview.com/edwards--big.svg",
+            "sector": "Health Technology"
         },
         {
-            "stock": "CALI3F",
-            "name": "CONST A LINDON",
-            "close": 11.1,
-            "change": -0.26954178,
+            "stock": "EALT3F",
+            "name": "ACO ALTONA",
+            "close": 8.72,
+            "change": -3.11111111,
             "volume": 28,
-            "market_cap": 41339985,
+            "market_cap": 189570000,
             "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
+            "sector": "Producer Manufacturing"
         },
         {
             "stock": "BHYG39",
@@ -14431,6 +14431,16 @@
             "sector": null
         },
         {
+            "stock": "CALI3F",
+            "name": "CONST A LINDON",
+            "close": 11.1,
+            "change": -0.26954178,
+            "volume": 28,
+            "market_cap": 41339985,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
+        },
+        {
             "stock": "SNEC34",
             "name": "SONY GROUP DRN",
             "close": 485.04,
@@ -14439,16 +14449,6 @@
             "market_cap": 593353294726.574,
             "logo": "https://s3-symbol-logo.tradingview.com/sony--big.svg",
             "sector": "Electronic Technology"
-        },
-        {
-            "stock": "EALT3F",
-            "name": "ACO ALTONA",
-            "close": 8.72,
-            "change": -3.11111111,
-            "volume": 28,
-            "market_cap": 189570000,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Producer Manufacturing"
         },
         {
             "stock": "BGRT39",
@@ -14561,6 +14561,16 @@
             "sector": "Process Industries"
         },
         {
+            "stock": "B1SA34",
+            "name": "BANCO SANTANDRN",
+            "close": 44.74,
+            "change": 0.99323027,
+            "volume": 21,
+            "market_cap": 41399342514.32794,
+            "logo": "https://s3-symbol-logo.tradingview.com/santander--big.svg",
+            "sector": "Finance"
+        },
+        {
             "stock": "CSAB3F",
             "name": "SEG AL BAHIAON",
             "close": 27.02,
@@ -14581,24 +14591,14 @@
             "sector": null
         },
         {
-            "stock": "B1SA34",
-            "name": "BANCO SANTANDRN",
-            "close": 44.74,
-            "change": 0.99323027,
-            "volume": 21,
-            "market_cap": 41399342514.32794,
-            "logo": "https://s3-symbol-logo.tradingview.com/santander--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "C1DN34",
-            "name": "CADENCE DESIDRN",
-            "close": 580.64,
-            "change": 15.04656003,
+            "stock": "G1RM34",
+            "name": "GARMIN LTD DRN",
+            "close": 259.43,
+            "change": -0.22307218,
             "volume": 20,
-            "market_cap": 318973967781.1551,
-            "logo": "https://s3-symbol-logo.tradingview.com/cadence-design-systems--big.svg",
-            "sector": "Technology Services"
+            "market_cap": 99957515025.32928,
+            "logo": "https://s3-symbol-logo.tradingview.com/garmin-ltd--big.svg",
+            "sector": "Electronic Technology"
         },
         {
             "stock": "VFCO34",
@@ -14621,16 +14621,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "G1RM34",
-            "name": "GARMIN LTD DRN",
-            "close": 259.43,
-            "change": -0.22307218,
-            "volume": 20,
-            "market_cap": 99957515025.32928,
-            "logo": "https://s3-symbol-logo.tradingview.com/garmin-ltd--big.svg",
-            "sector": "Electronic Technology"
-        },
-        {
             "stock": "E1DI34",
             "name": "CONSOLIDATEDDRN",
             "close": 232.75,
@@ -14639,6 +14629,16 @@
             "market_cap": 163790278313.06992,
             "logo": "https://s3-symbol-logo.tradingview.com/consolidated-edison--big.svg",
             "sector": "Utilities"
+        },
+        {
+            "stock": "C1DN34",
+            "name": "CADENCE DESIDRN",
+            "close": 580.64,
+            "change": 15.04656003,
+            "volume": 20,
+            "market_cap": 318973967781.1551,
+            "logo": "https://s3-symbol-logo.tradingview.com/cadence-design-systems--big.svg",
+            "sector": "Technology Services"
         },
         {
             "stock": "VOTS11",
@@ -14681,6 +14681,16 @@
             "sector": "Technology Services"
         },
         {
+            "stock": "MOOO34",
+            "name": "ALTRIA GROUPDRN",
+            "close": 224.14,
+            "change": 1.06411759,
+            "volume": 18,
+            "market_cap": 401679096134.7518,
+            "logo": "https://s3-symbol-logo.tradingview.com/altria--big.svg",
+            "sector": "Consumer Non-Durables"
+        },
+        {
             "stock": "BREV11",
             "name": "FII BRE VIC CI",
             "close": 101,
@@ -14701,26 +14711,6 @@
             "sector": "Technology Services"
         },
         {
-            "stock": "BLBT39",
-            "name": "GX LITHIUM BDRE",
-            "close": 38.4,
-            "change": 0.20876827,
-            "volume": 18,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "MOOO34",
-            "name": "ALTRIA GROUPDRN",
-            "close": 224.14,
-            "change": 1.06411759,
-            "volume": 18,
-            "market_cap": 401679096134.7518,
-            "logo": "https://s3-symbol-logo.tradingview.com/altria--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
             "stock": "FIND11",
             "name": "IT NOW IFNC CI",
             "close": 109.17,
@@ -14731,54 +14721,14 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "FOOD11",
-            "name": "INVESTO FOODCI",
-            "close": 81.09,
-            "change": -0.45420943,
-            "volume": 17,
+            "stock": "BLBT39",
+            "name": "GX LITHIUM BDRE",
+            "close": 38.4,
+            "change": 0.20876827,
+            "volume": 18,
             "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
             "sector": null
-        },
-        {
-            "stock": "E1OG34",
-            "name": "EOG RESOURCEDRN",
-            "close": 274.38,
-            "change": -0.42099512,
-            "volume": 17,
-            "market_cap": 317879859665.6535,
-            "logo": "https://s3-symbol-logo.tradingview.com/eog--big.svg",
-            "sector": "Energy Minerals"
-        },
-        {
-            "stock": "W1EL34",
-            "name": "WELLTOWER INDRN",
-            "close": 187.09,
-            "change": -1.6661359,
-            "volume": 17,
-            "market_cap": 187859650633.23203,
-            "logo": "https://s3-symbol-logo.tradingview.com/welltower-indrn--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "RDNI3F",
-            "name": "RNI",
-            "close": 5.31,
-            "change": 0,
-            "volume": 17,
-            "market_cap": 218189785,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "B1SX34",
-            "name": "BOSTON SCIENDRN",
-            "close": 260,
-            "change": -0.03075592,
-            "volume": 17,
-            "market_cap": 374937682705.1673,
-            "logo": "https://s3-symbol-logo.tradingview.com/boston-scientific--big.svg",
-            "sector": "Distribution Services"
         },
         {
             "stock": "R1KU34",
@@ -14791,6 +14741,26 @@
             "sector": "Consumer Durables"
         },
         {
+            "stock": "RDNI3F",
+            "name": "RNI",
+            "close": 5.31,
+            "change": 0,
+            "volume": 17,
+            "market_cap": 218189785,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "W1EL34",
+            "name": "WELLTOWER INDRN",
+            "close": 187.09,
+            "change": -1.6661359,
+            "volume": 17,
+            "market_cap": 187859650633.23203,
+            "logo": "https://s3-symbol-logo.tradingview.com/welltower-indrn--big.svg",
+            "sector": "Finance"
+        },
+        {
             "stock": "H1LT34",
             "name": "HILTON WORLDDRN",
             "close": 28.86,
@@ -14799,6 +14769,36 @@
             "market_cap": 182477008161.09424,
             "logo": "https://s3-symbol-logo.tradingview.com/hilton-worldwide--big.svg",
             "sector": "Consumer Services"
+        },
+        {
+            "stock": "E1OG34",
+            "name": "EOG RESOURCEDRN",
+            "close": 274.38,
+            "change": -0.42099512,
+            "volume": 17,
+            "market_cap": 317879859665.6535,
+            "logo": "https://s3-symbol-logo.tradingview.com/eog--big.svg",
+            "sector": "Energy Minerals"
+        },
+        {
+            "stock": "B1SX34",
+            "name": "BOSTON SCIENDRN",
+            "close": 260,
+            "change": -0.03075592,
+            "volume": 17,
+            "market_cap": 374937682705.1673,
+            "logo": "https://s3-symbol-logo.tradingview.com/boston-scientific--big.svg",
+            "sector": "Distribution Services"
+        },
+        {
+            "stock": "FOOD11",
+            "name": "INVESTO FOODCI",
+            "close": 81.09,
+            "change": -0.45420943,
+            "volume": 17,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
+            "sector": null
         },
         {
             "stock": "BMKS3",
@@ -14811,6 +14811,16 @@
             "sector": "Consumer Durables"
         },
         {
+            "stock": "BGNO39",
+            "name": "GX GENOMBIOTDRE",
+            "close": 31.08,
+            "change": 0.77821012,
+            "volume": 15,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
             "stock": "BHIX39",
             "name": "GX MSCICHIFLDRE",
             "close": 60.06,
@@ -14819,46 +14829,6 @@
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
             "sector": null
-        },
-        {
-            "stock": "BSNS39",
-            "name": "GX INTERTHGSDRE",
-            "close": 40.73,
-            "change": 0.69221012,
-            "volume": 15,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "HTEK11",
-            "name": "IT NOW HCARECI",
-            "close": 48.99,
-            "change": -0.02040816,
-            "volume": 15,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "GEPA3F",
-            "name": "GER PARANAP",
-            "close": 26.99,
-            "change": 1.19985002,
-            "volume": 15,
-            "market_cap": 2376570904,
-            "logo": "https://s3-symbol-logo.tradingview.com/ger-paranap-pn--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "L1CA34",
-            "name": "LABORATORY CDRN",
-            "close": 267.57,
-            "change": -0.99899734,
-            "volume": 15,
-            "market_cap": 95390869138.80446,
-            "logo": "https://s3-symbol-logo.tradingview.com/laboratory-amer--big.svg",
-            "sector": "Health Services"
         },
         {
             "stock": "P2LN34",
@@ -14871,14 +14841,54 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "BGNO39",
-            "name": "GX GENOMBIOTDRE",
-            "close": 31.08,
-            "change": 0.77821012,
+            "stock": "L1CA34",
+            "name": "LABORATORY CDRN",
+            "close": 267.57,
+            "change": -0.99899734,
+            "volume": 15,
+            "market_cap": 95390869138.80446,
+            "logo": "https://s3-symbol-logo.tradingview.com/laboratory-amer--big.svg",
+            "sector": "Health Services"
+        },
+        {
+            "stock": "HTEK11",
+            "name": "IT NOW HCARECI",
+            "close": 48.99,
+            "change": -0.02040816,
+            "volume": 15,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "BSNS39",
+            "name": "GX INTERTHGSDRE",
+            "close": 40.73,
+            "change": 0.69221012,
             "volume": 15,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
             "sector": null
+        },
+        {
+            "stock": "GEPA3F",
+            "name": "GER PARANAP",
+            "close": 26.99,
+            "change": 1.19985002,
+            "volume": 15,
+            "market_cap": 2376570904,
+            "logo": "https://s3-symbol-logo.tradingview.com/ger-paranap-pn--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "D1EX34",
+            "name": "DEXCOM INC DRN",
+            "close": 11.77,
+            "change": 3.60915493,
+            "volume": 14,
+            "market_cap": 230264202852.07703,
+            "logo": "https://s3-symbol-logo.tradingview.com/dexcom--big.svg",
+            "sector": "Health Technology"
         },
         {
             "stock": "DBAG34",
@@ -14891,16 +14901,6 @@
             "sector": "Finance"
         },
         {
-            "stock": "BDVD39",
-            "name": "GX SUPDIV USDRE",
-            "close": 40.36,
-            "change": -0.4930991,
-            "volume": 14,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
             "stock": "O1MC34",
             "name": "OMNICOM GROUDRN",
             "close": 223.96,
@@ -14911,6 +14911,16 @@
             "sector": "Commercial Services"
         },
         {
+            "stock": "BDVD39",
+            "name": "GX SUPDIV USDRE",
+            "close": 40.36,
+            "change": -0.4930991,
+            "volume": 14,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
             "stock": "D1OM34",
             "name": "DOMINION ENEDRN",
             "close": 123.63,
@@ -14919,16 +14929,6 @@
             "market_cap": 212923687715.2989,
             "logo": "https://s3-symbol-logo.tradingview.com/dominion-energy--big.svg",
             "sector": "Utilities"
-        },
-        {
-            "stock": "D1EX34",
-            "name": "DEXCOM INC DRN",
-            "close": 11.77,
-            "change": 3.60915493,
-            "volume": 14,
-            "market_cap": 230264202852.07703,
-            "logo": "https://s3-symbol-logo.tradingview.com/dexcom--big.svg",
-            "sector": "Health Technology"
         },
         {
             "stock": "BPVE39",
@@ -14971,26 +14971,6 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "CRIV4F",
-            "name": "ALFA FINANC PN",
-            "close": 5.69,
-            "change": -0.1754386,
-            "volume": 12,
-            "market_cap": 556237424,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "DGCO34",
-            "name": "DOLLAR GENERDRN",
-            "close": 43.01,
-            "change": 1.2,
-            "volume": 12,
-            "market_cap": 223204282928.06488,
-            "logo": "https://s3-symbol-logo.tradingview.com/dollar-general--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
             "stock": "E1CL34",
             "name": "ECOLAB INC DRN",
             "close": 210.46,
@@ -14999,26 +14979,6 @@
             "market_cap": 238060781418.43973,
             "logo": "https://s3-symbol-logo.tradingview.com/ecolab--big.svg",
             "sector": "Process Industries"
-        },
-        {
-            "stock": "RBIR11",
-            "name": "FII RBRES IVCI",
-            "close": 83.49,
-            "change": -0.60714286,
-            "volume": 12,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "GENB11",
-            "name": "ETF BTG GENBCI",
-            "close": 8.1,
-            "change": 0.24752475,
-            "volume": 12,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
-            "sector": null
         },
         {
             "stock": "BEWY39",
@@ -15031,50 +14991,80 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "BSIL39",
-            "name": "GX SILVER MNDRE",
-            "close": 27.66,
-            "change": 1.76600442,
-            "volume": 11,
+            "stock": "GENB11",
+            "name": "ETF BTG GENBCI",
+            "close": 8.1,
+            "change": 0.24752475,
+            "volume": 12,
             "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
             "sector": null
         },
         {
-            "stock": "I1DX34",
-            "name": "IDEXX LABORADRN",
-            "close": 471.81,
-            "change": 2.34490239,
-            "volume": 11,
-            "market_cap": 195431627629.17935,
-            "logo": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
-            "sector": "Health Technology"
+            "stock": "DGCO34",
+            "name": "DOLLAR GENERDRN",
+            "close": 43.01,
+            "change": 1.2,
+            "volume": 12,
+            "market_cap": 223204282928.06488,
+            "logo": "https://s3-symbol-logo.tradingview.com/dollar-general--big.svg",
+            "sector": "Retail Trade"
         },
         {
-            "stock": "B1CS34",
-            "name": "BARCLAYS PLCDRN",
-            "close": 38.52,
-            "change": 0.7322123,
-            "volume": 11,
-            "market_cap": 148121385783.4772,
-            "logo": "https://s3-symbol-logo.tradingview.com/barclays--big.svg",
+            "stock": "CRIV4F",
+            "name": "ALFA FINANC PN",
+            "close": 5.69,
+            "change": -0.1754386,
+            "volume": 12,
+            "market_cap": 556237424,
+            "logo": "https://brapi.dev/favicon.svg",
             "sector": "Finance"
         },
         {
-            "stock": "F1MC34",
-            "name": "FMC CORP DRN",
-            "close": 262.34,
-            "change": 0.09921017,
+            "stock": "RBIR11",
+            "name": "FII RBRES IVCI",
+            "close": 83.49,
+            "change": -0.60714286,
+            "volume": 12,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "MCOR34",
+            "name": "MOODYS CORP DRN",
+            "close": 405.35,
+            "change": 2.73989703,
             "volume": 11,
-            "market_cap": 65927449640.32422,
-            "logo": "https://s3-symbol-logo.tradingview.com/fmc--big.svg",
-            "sector": "Process Industries"
+            "market_cap": 294566772522.7964,
+            "logo": "https://s3-symbol-logo.tradingview.com/moodys--big.svg",
+            "sector": "Commercial Services"
         },
         {
             "stock": "BLPA39",
             "name": "GX MLP ETF DRE",
             "close": 52.28,
             "change": -0.3051087,
+            "volume": 11,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "HSHY34",
+            "name": "HERSHEY CO DRN",
+            "close": 260,
+            "change": -1.55616605,
+            "volume": 11,
+            "market_cap": 268907608257.34552,
+            "logo": "https://s3-symbol-logo.tradingview.com/hershey--big.svg",
+            "sector": "Consumer Non-Durables"
+        },
+        {
+            "stock": "BSIL39",
+            "name": "GX SILVER MNDRE",
+            "close": 27.66,
+            "change": 1.76600442,
             "volume": 11,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
@@ -15091,23 +15081,43 @@
             "sector": "Communications"
         },
         {
-            "stock": "MCOR34",
-            "name": "MOODYS CORP DRN",
-            "close": 405.35,
-            "change": 2.73989703,
+            "stock": "F1MC34",
+            "name": "FMC CORP DRN",
+            "close": 262.34,
+            "change": 0.09921017,
             "volume": 11,
-            "market_cap": 294566772522.7964,
-            "logo": "https://s3-symbol-logo.tradingview.com/moodys--big.svg",
-            "sector": "Commercial Services"
+            "market_cap": 65927449640.32422,
+            "logo": "https://s3-symbol-logo.tradingview.com/fmc--big.svg",
+            "sector": "Process Industries"
         },
         {
-            "stock": "HSHY34",
-            "name": "HERSHEY CO DRN",
-            "close": 260,
-            "change": -1.55616605,
+            "stock": "B1CS34",
+            "name": "BARCLAYS PLCDRN",
+            "close": 38.52,
+            "change": 0.7322123,
             "volume": 11,
-            "market_cap": 268907608257.34552,
-            "logo": "https://s3-symbol-logo.tradingview.com/hershey--big.svg",
+            "market_cap": 148121385783.4772,
+            "logo": "https://s3-symbol-logo.tradingview.com/barclays--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "I1DX34",
+            "name": "IDEXX LABORADRN",
+            "close": 471.81,
+            "change": 2.34490239,
+            "volume": 11,
+            "market_cap": 195431627629.17935,
+            "logo": "https://s3-symbol-logo.tradingview.com/idexx-laboratories--big.svg",
+            "sector": "Health Technology"
+        },
+        {
+            "stock": "COTY34",
+            "name": "COTY INC DRN",
+            "close": 27.51,
+            "change": -0.43430693,
+            "volume": 10,
+            "market_cap": 46830382948.32827,
+            "logo": "https://s3-symbol-logo.tradingview.com/coty--big.svg",
             "sector": "Consumer Non-Durables"
         },
         {
@@ -15115,46 +15125,6 @@
             "name": "GX AEVEHICLEDRE",
             "close": 39.76,
             "change": 0.8369262,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "BCAT39",
-            "name": "GX CATHOLVALDRE",
-            "close": 51.81,
-            "change": -1.93e-06,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "A1TH34",
-            "name": "AUTOHOME INCDRN",
-            "close": 14.7,
-            "change": 2.43902439,
-            "volume": 10,
-            "market_cap": 18010970314.485104,
-            "logo": "https://s3-symbol-logo.tradingview.com/autohome--big.svg",
-            "sector": "Technology Services"
-        },
-        {
-            "stock": "BNBR3F",
-            "name": "NORD BRASIL",
-            "close": 78.72,
-            "change": -1.74738261,
-            "volume": 10,
-            "market_cap": 6749065829,
-            "logo": "https://s3-symbol-logo.tradingview.com/nord-brasil-on--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BFNX39",
-            "name": "GX FINTECH DRE",
-            "close": 21.06,
-            "change": 0.76555024,
             "volume": 10,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
@@ -15171,96 +15141,6 @@
             "sector": "Non-Energy Minerals"
         },
         {
-            "stock": "BCNY39",
-            "name": "BKR CHINA A DRE",
-            "close": 49.9,
-            "change": 0.48328635,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "BCLO39",
-            "name": "GX CLOUD CPTDRE",
-            "close": 31.14,
-            "change": 0.48402711,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "W1PP34",
-            "name": "WPP PLC DRN",
-            "close": 54.42,
-            "change": -9.3,
-            "volume": 10,
-            "market_cap": 57490220363.2381,
-            "logo": "https://s3-symbol-logo.tradingview.com/wpp--big.svg",
-            "sector": "Commercial Services"
-        },
-        {
-            "stock": "BCTE39",
-            "name": "GX CLEANCH DRE",
-            "close": 36.42,
-            "change": 1.30736853,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "COTY34",
-            "name": "COTY INC DRN",
-            "close": 27.51,
-            "change": -0.43430693,
-            "volume": 10,
-            "market_cap": 46830382948.32827,
-            "logo": "https://s3-symbol-logo.tradingview.com/coty--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
-            "stock": "BEDC39",
-            "name": "GX TLMEDC DHDRE",
-            "close": 28.14,
-            "change": 0.93257177,
-            "volume": 10,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "WGBA34",
-            "name": "WALGREENS DRN",
-            "close": 76.3,
-            "change": 1.34147827,
-            "volume": 10,
-            "market_cap": 132741177568.38905,
-            "logo": "https://s3-symbol-logo.tradingview.com/walgreens-boots-alliance--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
-            "stock": "VRTX34",
-            "name": "VERTEX PHARMDRN",
-            "close": 406.34,
-            "change": -1.52436808,
-            "volume": 10,
-            "market_cap": 422168058708.2067,
-            "logo": "https://s3-symbol-logo.tradingview.com/vertex-pharmaceutical--big.svg",
-            "sector": "Health Technology"
-        },
-        {
-            "stock": "NORD3F",
-            "name": "NORDON MET",
-            "close": 7.1,
-            "change": 0,
-            "volume": 10,
-            "market_cap": 51647590,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Producer Manufacturing"
-        },
-        {
             "stock": "BSDV39",
             "name": "GX SUPERDIVDDRE",
             "close": 53.2,
@@ -15271,10 +15151,20 @@
             "sector": null
         },
         {
-            "stock": "BMIL39",
-            "name": "GX MILLECONMDRE",
-            "close": 37.08,
-            "change": 0.51504745,
+            "stock": "BNBR3F",
+            "name": "NORD BRASIL",
+            "close": 78.72,
+            "change": -1.74738261,
+            "volume": 10,
+            "market_cap": 6749065829,
+            "logo": "https://s3-symbol-logo.tradingview.com/nord-brasil-on--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "BEDC39",
+            "name": "GX TLMEDC DHDRE",
+            "close": 28.14,
+            "change": 0.93257177,
             "volume": 10,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
@@ -15291,34 +15181,114 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "SOND6F",
-            "name": "SONDOTECNICAPNB",
-            "close": 43.75,
-            "change": -0.02284735,
-            "volume": 9,
-            "market_cap": 85749319,
-            "logo": "https://s3-symbol-logo.tradingview.com/sondotecnicapnb--big.svg",
-            "sector": "Industrial Services"
-        },
-        {
-            "stock": "G1SK34",
-            "name": "GSK PLC DRN",
-            "close": 33.9,
-            "change": -0.87719588,
-            "volume": 9,
-            "market_cap": 345325011612.0041,
-            "logo": "https://s3-symbol-logo.tradingview.com/glaxosmithkline--big.svg",
+            "stock": "VRTX34",
+            "name": "VERTEX PHARMDRN",
+            "close": 406.34,
+            "change": -1.52436808,
+            "volume": 10,
+            "market_cap": 422168058708.2067,
+            "logo": "https://s3-symbol-logo.tradingview.com/vertex-pharmaceutical--big.svg",
             "sector": "Health Technology"
         },
         {
-            "stock": "E1VE34",
-            "name": "EVEREST RE GDRN",
-            "close": 426.44,
-            "change": -0.39241334,
-            "volume": 9,
-            "market_cap": 67651270607.90274,
-            "logo": "https://s3-symbol-logo.tradingview.com/everest-re--big.svg",
-            "sector": "Finance"
+            "stock": "BCLO39",
+            "name": "GX CLOUD CPTDRE",
+            "close": 31.14,
+            "change": 0.48402711,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "A1TH34",
+            "name": "AUTOHOME INCDRN",
+            "close": 14.7,
+            "change": 2.43902439,
+            "volume": 10,
+            "market_cap": 18010970314.485104,
+            "logo": "https://s3-symbol-logo.tradingview.com/autohome--big.svg",
+            "sector": "Technology Services"
+        },
+        {
+            "stock": "BCTE39",
+            "name": "GX CLEANCH DRE",
+            "close": 36.42,
+            "change": 1.30736853,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "W1PP34",
+            "name": "WPP PLC DRN",
+            "close": 54.42,
+            "change": -9.3,
+            "volume": 10,
+            "market_cap": 57490220363.2381,
+            "logo": "https://s3-symbol-logo.tradingview.com/wpp--big.svg",
+            "sector": "Commercial Services"
+        },
+        {
+            "stock": "NORD3F",
+            "name": "NORDON MET",
+            "close": 7.1,
+            "change": 0,
+            "volume": 10,
+            "market_cap": 51647590,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Producer Manufacturing"
+        },
+        {
+            "stock": "BFNX39",
+            "name": "GX FINTECH DRE",
+            "close": 21.06,
+            "change": 0.76555024,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "BCNY39",
+            "name": "BKR CHINA A DRE",
+            "close": 49.9,
+            "change": 0.48328635,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "BMIL39",
+            "name": "GX MILLECONMDRE",
+            "close": 37.08,
+            "change": 0.51504745,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "WGBA34",
+            "name": "WALGREENS DRN",
+            "close": 76.3,
+            "change": 1.34147827,
+            "volume": 10,
+            "market_cap": 132741177568.38905,
+            "logo": "https://s3-symbol-logo.tradingview.com/walgreens-boots-alliance--big.svg",
+            "sector": "Retail Trade"
+        },
+        {
+            "stock": "BCAT39",
+            "name": "GX CATHOLVALDRE",
+            "close": 51.81,
+            "change": -1.93e-06,
+            "volume": 10,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/global-x--big.svg",
+            "sector": null
         },
         {
             "stock": "GILD34",
@@ -15331,6 +15301,26 @@
             "sector": "Health Technology"
         },
         {
+            "stock": "SOND6F",
+            "name": "SONDOTECNICAPNB",
+            "close": 43.75,
+            "change": -0.02284735,
+            "volume": 9,
+            "market_cap": 85749319,
+            "logo": "https://s3-symbol-logo.tradingview.com/sondotecnicapnb--big.svg",
+            "sector": "Industrial Services"
+        },
+        {
+            "stock": "E1VE34",
+            "name": "EVEREST RE GDRN",
+            "close": 426.44,
+            "change": -0.39241334,
+            "volume": 9,
+            "market_cap": 67651270607.90274,
+            "logo": "https://s3-symbol-logo.tradingview.com/everest-re--big.svg",
+            "sector": "Finance"
+        },
+        {
             "stock": "K1EL34",
             "name": "KELLOGG CO DRN",
             "close": 166.43,
@@ -15339,6 +15329,16 @@
             "market_cap": 115937065379.93922,
             "logo": "https://s3-symbol-logo.tradingview.com/kellogg--big.svg",
             "sector": "Consumer Non-Durables"
+        },
+        {
+            "stock": "G1SK34",
+            "name": "GSK PLC DRN",
+            "close": 33.9,
+            "change": -0.87719588,
+            "volume": 9,
+            "market_cap": 345325011612.0041,
+            "logo": "https://s3-symbol-logo.tradingview.com/glaxosmithkline--big.svg",
+            "sector": "Health Technology"
         },
         {
             "stock": "J2BL34",
@@ -15351,14 +15351,14 @@
             "sector": "Electronic Technology"
         },
         {
-            "stock": "LOWC34",
-            "name": "LOWES COMPA DRN",
-            "close": 50.62,
-            "change": -1.20999605,
+            "stock": "CEED4F",
+            "name": "CEEE-D PN",
+            "close": 30.01,
+            "change": -6.94573643,
             "volume": 8,
-            "market_cap": 607624812208.7133,
-            "logo": "https://s3-symbol-logo.tradingview.com/lowe-s--big.svg",
-            "sector": "Retail Trade"
+            "market_cap": 3280280,
+            "logo": "https://s3-symbol-logo.tradingview.com/ceee-d--big.svg",
+            "sector": "Government"
         },
         {
             "stock": "U1AL34",
@@ -15371,26 +15371,6 @@
             "sector": "Transportation"
         },
         {
-            "stock": "CBEE3F",
-            "name": "AMPLA ENERG",
-            "close": 14.5,
-            "change": -14.70588235,
-            "volume": 8,
-            "market_cap": 3896204659,
-            "logo": "https://s3-symbol-logo.tradingview.com/ampla-energ-on--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "BEGE39",
-            "name": "INC ESG AWARDRE",
-            "close": 38.95,
-            "change": 0.77619142,
-            "volume": 8,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
             "stock": "VLOE34",
             "name": "VALERO ENER DRN",
             "close": 269,
@@ -15401,24 +15381,14 @@
             "sector": "Energy Minerals"
         },
         {
-            "stock": "CEED4F",
-            "name": "CEEE-D PN",
-            "close": 30.01,
-            "change": -6.94573643,
+            "stock": "LOWC34",
+            "name": "LOWES COMPA DRN",
+            "close": 50.62,
+            "change": -1.20999605,
             "volume": 8,
-            "market_cap": 3280280,
-            "logo": "https://s3-symbol-logo.tradingview.com/ceee-d--big.svg",
-            "sector": "Government"
-        },
-        {
-            "stock": "ENMT3F",
-            "name": "ENERGISA MT",
-            "close": 60.01,
-            "change": -15.47887324,
-            "volume": 8,
-            "market_cap": 15756266840,
-            "logo": "https://s3-symbol-logo.tradingview.com/energisa-mt-on--big.svg",
-            "sector": "Utilities"
+            "market_cap": 607624812208.7133,
+            "logo": "https://s3-symbol-logo.tradingview.com/lowe-s--big.svg",
+            "sector": "Retail Trade"
         },
         {
             "stock": "W1AB34",
@@ -15431,6 +15401,16 @@
             "sector": "Producer Manufacturing"
         },
         {
+            "stock": "CBEE3F",
+            "name": "AMPLA ENERG",
+            "close": 14.5,
+            "change": -14.70588235,
+            "volume": 8,
+            "market_cap": 3896204659,
+            "logo": "https://s3-symbol-logo.tradingview.com/ampla-energ-on--big.svg",
+            "sector": "Utilities"
+        },
+        {
             "stock": "CEEB5F",
             "name": "COELBA PNA",
             "close": 35.51,
@@ -15438,6 +15418,16 @@
             "volume": 8,
             "market_cap": 6887141812,
             "logo": "https://s3-symbol-logo.tradingview.com/coelba-pna--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "ENMT3F",
+            "name": "ENERGISA MT",
+            "close": 60.01,
+            "change": -15.47887324,
+            "volume": 8,
+            "market_cap": 15756266840,
+            "logo": "https://s3-symbol-logo.tradingview.com/energisa-mt-on--big.svg",
             "sector": "Utilities"
         },
         {
@@ -15451,33 +15441,13 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "A1MP34",
-            "name": "AMERIPRISE FDRN",
-            "close": 382.52,
-            "change": 1.21986716,
-            "volume": 7,
-            "market_cap": 157518960243.1611,
-            "logo": "https://s3-symbol-logo.tradingview.com/ameriprise-financial--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "AHEB5F",
-            "name": "SPTURIS PNA",
-            "close": 15,
-            "change": 0,
-            "volume": 7,
-            "market_cap": 188539386,
-            "logo": "https://s3-symbol-logo.tradingview.com/spturis--big.svg",
-            "sector": "Commercial Services"
-        },
-        {
-            "stock": "HCST11",
-            "name": "FII HECT DESCI",
-            "close": 58,
-            "change": 4.54217736,
-            "volume": 7,
+            "stock": "BEGE39",
+            "name": "INC ESG AWARDRE",
+            "close": 38.95,
+            "change": 0.77619142,
+            "volume": 8,
             "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
         },
         {
@@ -15491,20 +15461,30 @@
             "sector": "Energy Minerals"
         },
         {
-            "stock": "FPAB11",
-            "name": "FII A BRANCACI",
-            "close": 145,
-            "change": -2.69108803,
+            "stock": "AHEB5F",
+            "name": "SPTURIS PNA",
+            "close": 15,
+            "change": 0,
             "volume": 7,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii-a-brancaci--big.svg",
-            "sector": "Miscellaneous"
+            "market_cap": 188539386,
+            "logo": "https://s3-symbol-logo.tradingview.com/spturis--big.svg",
+            "sector": "Commercial Services"
         },
         {
             "stock": "NEWU11",
             "name": "FII NEWRU CI",
             "close": 69.99,
             "change": 2.86e-06,
+            "volume": 7,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "HCST11",
+            "name": "FII HECT DESCI",
+            "close": 58,
+            "change": 4.54217736,
             "volume": 7,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
@@ -15521,6 +15501,26 @@
             "sector": "Consumer Non-Durables"
         },
         {
+            "stock": "A1MP34",
+            "name": "AMERIPRISE FDRN",
+            "close": 382.52,
+            "change": 1.21986716,
+            "volume": 7,
+            "market_cap": 157518960243.1611,
+            "logo": "https://s3-symbol-logo.tradingview.com/ameriprise-financial--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "FPAB11",
+            "name": "FII A BRANCACI",
+            "close": 145,
+            "change": -2.69108803,
+            "volume": 7,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii-a-brancaci--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
             "stock": "U2PS34",
             "name": "UPSTART HOLDDRN",
             "close": 6.86,
@@ -15529,46 +15529,6 @@
             "market_cap": 11408095015.197569,
             "logo": "https://s3-symbol-logo.tradingview.com/upstart--big.svg",
             "sector": "Technology Services"
-        },
-        {
-            "stock": "S1YM34",
-            "name": "GEN DIGT INCDRN",
-            "close": 88.34,
-            "change": 4.70089476,
-            "volume": 6,
-            "market_cap": 56935751950.35461,
-            "logo": "https://s3-symbol-logo.tradingview.com/nortonlifelock--big.svg",
-            "sector": "Technology Services"
-        },
-        {
-            "stock": "A1IV34",
-            "name": "APARTMENT INDRN",
-            "close": 41.4,
-            "change": 0.97560976,
-            "volume": 6,
-            "market_cap": 6105762629.179332,
-            "logo": "https://s3-symbol-logo.tradingview.com/apartment-investment-and-management-company--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "SPGI34",
-            "name": "SP GLOBAL DRN ED",
-            "close": 51.54,
-            "change": 0.17492517,
-            "volume": 6,
-            "market_cap": 597120249062.8167,
-            "logo": "https://s3-symbol-logo.tradingview.com/s-and-p-global--big.svg",
-            "sector": "Commercial Services"
-        },
-        {
-            "stock": "BGOV39",
-            "name": "BKR US TREASDRE",
-            "close": 37.75,
-            "change": -2.60577413,
-            "volume": 6,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
         },
         {
             "stock": "BIGF39",
@@ -15581,14 +15541,44 @@
             "sector": null
         },
         {
-            "stock": "C1NS34",
-            "name": "CELANESE CORDRN",
-            "close": 265.2,
-            "change": 0.18511202,
+            "stock": "SPGI34",
+            "name": "SP GLOBAL DRN ED",
+            "close": 51.54,
+            "change": 0.17492517,
             "volume": 6,
-            "market_cap": 57325769858.15603,
-            "logo": "https://s3-symbol-logo.tradingview.com/celanese--big.svg",
-            "sector": "Process Industries"
+            "market_cap": 597120249062.8167,
+            "logo": "https://s3-symbol-logo.tradingview.com/s-and-p-global--big.svg",
+            "sector": "Commercial Services"
+        },
+        {
+            "stock": "S1YM34",
+            "name": "GEN DIGT INCDRN",
+            "close": 88.34,
+            "change": 4.70089476,
+            "volume": 6,
+            "market_cap": 56935751950.35461,
+            "logo": "https://s3-symbol-logo.tradingview.com/nortonlifelock--big.svg",
+            "sector": "Technology Services"
+        },
+        {
+            "stock": "BGOV39",
+            "name": "BKR US TREASDRE",
+            "close": 37.75,
+            "change": -2.60577413,
+            "volume": 6,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "A1IV34",
+            "name": "APARTMENT INDRN",
+            "close": 41.4,
+            "change": 0.97560976,
+            "volume": 6,
+            "market_cap": 6105762629.179332,
+            "logo": "https://s3-symbol-logo.tradingview.com/apartment-investment-and-management-company--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "J1CI34",
@@ -15611,24 +15601,44 @@
             "sector": null
         },
         {
-            "stock": "BEWC39",
-            "name": "MSCI CANADA DRE",
-            "close": 42.29,
-            "change": -0.11809164,
-            "volume": 5,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": "Miscellaneous"
+            "stock": "C1NS34",
+            "name": "CELANESE CORDRN",
+            "close": 265.2,
+            "change": 0.18511202,
+            "volume": 6,
+            "market_cap": 57325769858.15603,
+            "logo": "https://s3-symbol-logo.tradingview.com/celanese--big.svg",
+            "sector": "Process Industries"
         },
         {
-            "stock": "HPDP11",
-            "name": "FII HEDGEPDPCI",
-            "close": 70.01,
-            "change": -1.3943662,
+            "stock": "N1CL34",
+            "name": "NORWEGIAN CRDRN",
+            "close": 77.35,
+            "change": 7.83493206,
             "volume": 5,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
+            "market_cap": 31909079792.2999,
+            "logo": "https://s3-symbol-logo.tradingview.com/norwegian-cruise-line--big.svg",
+            "sector": "Consumer Services"
+        },
+        {
+            "stock": "CSRN3F",
+            "name": "COSERN",
+            "close": 21.61,
+            "change": -8.04255319,
+            "volume": 5,
+            "market_cap": 3701991831,
+            "logo": "https://s3-symbol-logo.tradingview.com/cosern-on--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "N2ET34",
+            "name": "CLOUDFLARE DRN",
+            "close": 19.88,
+            "change": 1.63599702,
+            "volume": 5,
+            "market_cap": 116287667928.06483,
+            "logo": "https://s3-symbol-logo.tradingview.com/cloudflare-inc--big.svg",
+            "sector": "Technology Services"
         },
         {
             "stock": "P1IO34",
@@ -15641,20 +15651,20 @@
             "sector": "Energy Minerals"
         },
         {
-            "stock": "H1CA34",
-            "name": "HCA HEALTHCADRN",
-            "close": 67.34,
-            "change": 1.76817596,
+            "stock": "Q1RV34",
+            "name": "QORVO INC DRN",
+            "close": 243,
+            "change": -3.95256917,
             "volume": 5,
-            "market_cap": 368299893829.7873,
-            "logo": "https://s3-symbol-logo.tradingview.com/hca-healthcare--big.svg",
-            "sector": "Health Services"
+            "market_cap": 48647851256.33232,
+            "logo": "https://s3-symbol-logo.tradingview.com/qorvo--big.svg",
+            "sector": "Electronic Technology"
         },
         {
-            "stock": "FLRP11",
-            "name": "FII FLORIPA CI",
-            "close": 1618.03,
-            "change": -9.85905292,
+            "stock": "ALMI11",
+            "name": "FII TORRE ALCI",
+            "close": 790,
+            "change": 0,
             "volume": 5,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
@@ -15671,54 +15681,34 @@
             "sector": "Utilities"
         },
         {
-            "stock": "CSRN3F",
-            "name": "COSERN",
-            "close": 21.61,
-            "change": -8.04255319,
+            "stock": "USIM6F",
+            "name": "USIMINAS PNB",
+            "close": 14.79,
+            "change": 23.25,
             "volume": 5,
-            "market_cap": 3701991831,
-            "logo": "https://s3-symbol-logo.tradingview.com/cosern-on--big.svg",
-            "sector": "Utilities"
+            "market_cap": 8660543002,
+            "logo": "https://s3-symbol-logo.tradingview.com/usiminas-pna-n1--big.svg",
+            "sector": "Non-Energy Minerals"
         },
         {
-            "stock": "N1CL34",
-            "name": "NORWEGIAN CRDRN",
-            "close": 77.35,
-            "change": 7.83493206,
-            "volume": 5,
-            "market_cap": 31909079792.2999,
-            "logo": "https://s3-symbol-logo.tradingview.com/norwegian-cruise-line--big.svg",
-            "sector": "Consumer Services"
-        },
-        {
-            "stock": "S1NP34",
-            "name": "SYNOPSYS INCDRN",
-            "close": 572.85,
-            "change": 4.82159195,
-            "volume": 5,
-            "market_cap": 350691553414.3871,
-            "logo": "https://s3-symbol-logo.tradingview.com/synopsys--big.svg",
-            "sector": "Technology Services"
-        },
-        {
-            "stock": "CXTL11",
-            "name": "FII CX TRX CI",
-            "close": 339,
-            "change": -0.2911821,
+            "stock": "HPDP11",
+            "name": "FII HEDGEPDPCI",
+            "close": 70.01,
+            "change": -1.3943662,
             "volume": 5,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
         },
         {
-            "stock": "N2ET34",
-            "name": "CLOUDFLARE DRN",
-            "close": 19.88,
-            "change": 1.63599702,
+            "stock": "H1CA34",
+            "name": "HCA HEALTHCADRN",
+            "close": 67.34,
+            "change": 1.76817596,
             "volume": 5,
-            "market_cap": 116287667928.06483,
-            "logo": "https://s3-symbol-logo.tradingview.com/cloudflare-inc--big.svg",
-            "sector": "Technology Services"
+            "market_cap": 368299893829.7873,
+            "logo": "https://s3-symbol-logo.tradingview.com/hca-healthcare--big.svg",
+            "sector": "Health Services"
         },
         {
             "stock": "T1RI34",
@@ -15731,16 +15721,6 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "S1HW34",
-            "name": "THE SHERWIN DRN",
-            "close": 116.01,
-            "change": 1.25687353,
-            "volume": 5,
-            "market_cap": 297579821352.5836,
-            "logo": "https://s3-symbol-logo.tradingview.com/sherwin-williams--big.svg",
-            "sector": "Process Industries"
-        },
-        {
             "stock": "MWET4F",
             "name": "WETZEL S/A PN",
             "close": 9.9,
@@ -15751,54 +15731,84 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "Q1RV34",
-            "name": "QORVO INC DRN",
-            "close": 243,
-            "change": -3.95256917,
+            "stock": "BEWC39",
+            "name": "MSCI CANADA DRE",
+            "close": 42.29,
+            "change": -0.11809164,
             "volume": 5,
-            "market_cap": 48647851256.33232,
-            "logo": "https://s3-symbol-logo.tradingview.com/qorvo--big.svg",
-            "sector": "Electronic Technology"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": "Miscellaneous"
         },
         {
-            "stock": "USIM6F",
-            "name": "USIMINAS PNB",
-            "close": 14.79,
-            "change": 23.25,
+            "stock": "CXTL11",
+            "name": "FII CX TRX CI",
+            "close": 339,
+            "change": -0.2911821,
             "volume": 5,
-            "market_cap": 8660543002,
-            "logo": "https://s3-symbol-logo.tradingview.com/usiminas-pna-n1--big.svg",
-            "sector": "Non-Energy Minerals"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
         },
         {
-            "stock": "ALMI11",
-            "name": "FII TORRE ALCI",
-            "close": 790,
-            "change": 0,
+            "stock": "FLRP11",
+            "name": "FII FLORIPA CI",
+            "close": 1618.03,
+            "change": -9.85905292,
             "volume": 5,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": "Miscellaneous"
         },
         {
-            "stock": "K1LA34",
-            "name": "KLA CORP DRN",
-            "close": 570.84,
-            "change": 0.94429708,
-            "volume": 4,
-            "market_cap": 307891314002.0264,
-            "logo": "https://s3-symbol-logo.tradingview.com/kla-tencor--big.svg",
-            "sector": "Electronic Technology"
+            "stock": "S1NP34",
+            "name": "SYNOPSYS INCDRN",
+            "close": 572.85,
+            "change": 4.82159195,
+            "volume": 5,
+            "market_cap": 350691553414.3871,
+            "logo": "https://s3-symbol-logo.tradingview.com/synopsys--big.svg",
+            "sector": "Technology Services"
         },
         {
-            "stock": "NOCG34",
-            "name": "NORTHROP GRUDRN",
-            "close": 437.38,
-            "change": -0.79386681,
+            "stock": "S1HW34",
+            "name": "THE SHERWIN DRN",
+            "close": 116.01,
+            "change": 1.25687353,
+            "volume": 5,
+            "market_cap": 297579821352.5836,
+            "logo": "https://s3-symbol-logo.tradingview.com/sherwin-williams--big.svg",
+            "sector": "Process Industries"
+        },
+        {
+            "stock": "BLCA11",
+            "name": "FII BLUE AAACI",
+            "close": 138.74,
+            "change": -7.21e-06,
             "volume": 4,
-            "market_cap": 335021602411.3476,
-            "logo": "https://s3-symbol-logo.tradingview.com/northrop-grumman--big.svg",
-            "sector": "Electronic Technology"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "CCRF11",
+            "name": "RBR CRI FII CI",
+            "close": 82.96,
+            "change": 6.27722537,
+            "volume": 4,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "W1MC34",
+            "name": "WASTE MANAG DRN",
+            "close": 408.2,
+            "change": -0.05050975,
+            "volume": 4,
+            "market_cap": 333696865091.1855,
+            "logo": "https://s3-symbol-logo.tradingview.com/waste-management--big.svg",
+            "sector": "Industrial Services"
         },
         {
             "stock": "L1YG34",
@@ -15811,14 +15821,44 @@
             "sector": "Finance"
         },
         {
-            "stock": "W1MC34",
-            "name": "WASTE MANAG DRN",
-            "close": 408.2,
-            "change": -0.05050975,
+            "stock": "NOCG34",
+            "name": "NORTHROP GRUDRN",
+            "close": 437.38,
+            "change": -0.79386681,
             "volume": 4,
-            "market_cap": 333696865091.1855,
-            "logo": "https://s3-symbol-logo.tradingview.com/waste-management--big.svg",
-            "sector": "Industrial Services"
+            "market_cap": 335021602411.3476,
+            "logo": "https://s3-symbol-logo.tradingview.com/northrop-grumman--big.svg",
+            "sector": "Electronic Technology"
+        },
+        {
+            "stock": "M1UF34",
+            "name": "MITSUBISHI UDRN",
+            "close": 35.13,
+            "change": 4.36720143,
+            "volume": 4,
+            "market_cap": 404527201775.927,
+            "logo": "https://s3-symbol-logo.tradingview.com/mitsubishi-group--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "MILL11",
+            "name": "IT NOW MILL CI",
+            "close": 45.74,
+            "change": -2.63942103,
+            "volume": 4,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "K1LA34",
+            "name": "KLA CORP DRN",
+            "close": 570.84,
+            "change": 0.94429708,
+            "volume": 4,
+            "market_cap": 307891314002.0264,
+            "logo": "https://s3-symbol-logo.tradingview.com/kla-tencor--big.svg",
+            "sector": "Electronic Technology"
         },
         {
             "stock": "M1CB34",
@@ -15851,94 +15891,14 @@
             "sector": "Non-Energy Minerals"
         },
         {
-            "stock": "M1UF34",
-            "name": "MITSUBISHI UDRN",
-            "close": 35.13,
-            "change": 4.36720143,
-            "volume": 4,
-            "market_cap": 404527201775.927,
-            "logo": "https://s3-symbol-logo.tradingview.com/mitsubishi-group--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BLCA11",
-            "name": "FII BLUE AAACI",
-            "close": 138.74,
-            "change": -7.21e-06,
-            "volume": 4,
+            "stock": "BLMC11",
+            "name": "FII BLUE CRICI",
+            "close": 79.79,
+            "change": 4.98684211,
+            "volume": 3,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
-        },
-        {
-            "stock": "CCRF11",
-            "name": "RBR CRI FII CI",
-            "close": 82.96,
-            "change": 6.27722537,
-            "volume": 4,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "MILL11",
-            "name": "IT NOW MILL CI",
-            "close": 45.74,
-            "change": -2.63942103,
-            "volume": 4,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/itau-unibanco--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "SCVB11",
-            "name": "INVESTO SCVBCI",
-            "close": 90.21,
-            "change": 2.19780567,
-            "volume": 3,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "E1QR34",
-            "name": "EQUITY RESIDDRN",
-            "close": 154.2,
-            "change": -0.6763285,
-            "volume": 3,
-            "market_cap": 116704170349.54408,
-            "logo": "https://s3-symbol-logo.tradingview.com/equity-residential--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BIJH39",
-            "name": "CORE MIDCAP DRE",
-            "close": 60.74,
-            "change": -0.42622951,
-            "volume": 3,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "D1HI34",
-            "name": "DR HORTON INDRN",
-            "close": 542,
-            "change": -1.8115942,
-            "volume": 3,
-            "market_cap": 184600027826.74777,
-            "logo": "https://s3-symbol-logo.tradingview.com/dr-horton--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
-            "stock": "B2UR34",
-            "name": "BURLINGTONSTDRN",
-            "close": 24.6,
-            "change": -13.28868829,
-            "volume": 3,
-            "market_cap": 49455416089.15907,
-            "logo": "https://s3-symbol-logo.tradingview.com/burlington--big.svg",
-            "sector": "Retail Trade"
         },
         {
             "stock": "A1MB34",
@@ -15951,24 +15911,34 @@
             "sector": "Distribution Services"
         },
         {
-            "stock": "AHEB3F",
-            "name": "SPTURIS",
-            "close": 17.68,
-            "change": -11.6,
+            "stock": "B2UR34",
+            "name": "BURLINGTONSTDRN",
+            "close": 24.6,
+            "change": -13.28868829,
             "volume": 3,
-            "market_cap": 188539386,
-            "logo": "https://s3-symbol-logo.tradingview.com/spturis--big.svg",
-            "sector": "Commercial Services"
+            "market_cap": 49455416089.15907,
+            "logo": "https://s3-symbol-logo.tradingview.com/burlington--big.svg",
+            "sector": "Retail Trade"
         },
         {
-            "stock": "BDLL4F",
-            "name": "BARDELLA PN",
-            "close": 9.88,
-            "change": -1.2,
+            "stock": "BIJH39",
+            "name": "CORE MIDCAP DRE",
+            "close": 60.74,
+            "change": -0.42622951,
             "volume": 3,
-            "market_cap": 17809432,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Producer Manufacturing"
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "E1QR34",
+            "name": "EQUITY RESIDDRN",
+            "close": 154.2,
+            "change": -0.6763285,
+            "volume": 3,
+            "market_cap": 116704170349.54408,
+            "logo": "https://s3-symbol-logo.tradingview.com/equity-residential--big.svg",
+            "sector": "Finance"
         },
         {
             "stock": "P1SX34",
@@ -15981,14 +15951,34 @@
             "sector": "Energy Minerals"
         },
         {
-            "stock": "BLMC11",
-            "name": "FII BLUE CRICI",
-            "close": 79.79,
-            "change": 4.98684211,
+            "stock": "BDLL4F",
+            "name": "BARDELLA PN",
+            "close": 9.88,
+            "change": -1.2,
             "volume": 3,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
+            "market_cap": 17809432,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Producer Manufacturing"
+        },
+        {
+            "stock": "AHEB3F",
+            "name": "SPTURIS",
+            "close": 17.68,
+            "change": -11.6,
+            "volume": 3,
+            "market_cap": 188539386,
+            "logo": "https://s3-symbol-logo.tradingview.com/spturis--big.svg",
+            "sector": "Commercial Services"
+        },
+        {
+            "stock": "D1HI34",
+            "name": "DR HORTON INDRN",
+            "close": 542,
+            "change": -1.8115942,
+            "volume": 3,
+            "market_cap": 184600027826.74777,
+            "logo": "https://s3-symbol-logo.tradingview.com/dr-horton--big.svg",
+            "sector": "Consumer Durables"
         },
         {
             "stock": "BMIN3F",
@@ -16011,14 +16001,214 @@
             "sector": "Consumer Services"
         },
         {
-            "stock": "BKSA39",
-            "name": "BKR SAUDARABDRE",
-            "close": 50.64,
-            "change": 1.97e-06,
+            "stock": "SCVB11",
+            "name": "INVESTO SCVBCI",
+            "close": 90.21,
+            "change": 2.19780567,
+            "volume": 3,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "M1CK34",
+            "name": "MCKESSON CORDRN",
+            "close": 493,
+            "change": -0.4040404,
+            "volume": 2,
+            "market_cap": 268484237705.1672,
+            "logo": "https://s3-symbol-logo.tradingview.com/mckesson--big.svg",
+            "sector": "Distribution Services"
+        },
+        {
+            "stock": "BICE11",
+            "name": "FII BRIO CRECI",
+            "close": 840,
+            "change": -6.66978078,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": null
+        },
+        {
+            "stock": "BCWV39",
+            "name": "MSCIGLMIVOLFDRE",
+            "close": 48.59,
+            "change": -0.73544636,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "BALM4F",
+            "name": "BAUMER PN",
+            "close": 9.4,
+            "change": 7.30593607,
+            "volume": 2,
+            "market_cap": 96374518,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Health Technology"
+        },
+        {
+            "stock": "DRIT11B",
+            "name": "MULTIGESTAO RENDA",
+            "close": 90.95,
+            "change": -0.01099274,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/multigestao-renda--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "BIRB39",
+            "name": "BKR ROBT AIMDRE",
+            "close": 78.32,
+            "change": 0.6037277,
             "volume": 2,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
+        },
+        {
+            "stock": "FRIO3F",
+            "name": "METALFRIO",
+            "close": 23,
+            "change": 0,
+            "volume": 2,
+            "market_cap": 94496406,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Producer Manufacturing"
+        },
+        {
+            "stock": "CSRN6F",
+            "name": "COSERN PNB",
+            "close": 21.5,
+            "change": 0,
+            "volume": 2,
+            "market_cap": 3701991831,
+            "logo": "https://s3-symbol-logo.tradingview.com/cosern-on--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "GDXB39",
+            "name": "VE GOLD ETF DRE",
+            "close": 53.75,
+            "change": 5.70305234,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/vaneck--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "D1OW34",
+            "name": "DOW INC DRN",
+            "close": 61.78,
+            "change": -0.32268474,
+            "volume": 2,
+            "market_cap": 174786302046.6059,
+            "logo": "https://s3-symbol-logo.tradingview.com/dow--big.svg",
+            "sector": "Process Industries"
+        },
+        {
+            "stock": "WSEC11",
+            "name": "FII WARREN CI",
+            "close": 89.97,
+            "change": 0.01111716,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": null
+        },
+        {
+            "stock": "TXSA34",
+            "name": "TERNIUMSA DRN",
+            "close": 194.12,
+            "change": 2.77968973,
+            "volume": 2,
+            "market_cap": 37103544685.91693,
+            "logo": "https://s3-symbol-logo.tradingview.com/ternium--big.svg",
+            "sector": "Non-Energy Minerals"
+        },
+        {
+            "stock": "MDTC34",
+            "name": "MEDTRONIC DRN",
+            "close": 207.98,
+            "change": -0.96190476,
+            "volume": 2,
+            "market_cap": 557780490146.9098,
+            "logo": "https://s3-symbol-logo.tradingview.com/medtronic--big.svg",
+            "sector": "Health Technology"
+        },
+        {
+            "stock": "EKTR3F",
+            "name": "ELEKTRO",
+            "close": 34.95,
+            "change": -2.86e-06,
+            "volume": 2,
+            "market_cap": 7079858682,
+            "logo": "https://s3-symbol-logo.tradingview.com/elektro-pn--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "C1AH34",
+            "name": "CARDINAL HEADRN",
+            "close": 417.26,
+            "change": -2.4e-06,
+            "volume": 2,
+            "market_cap": 106147904503.5461,
+            "logo": "https://s3-symbol-logo.tradingview.com/cardinal-health--big.svg",
+            "sector": "Distribution Services"
+        },
+        {
+            "stock": "L1EN34",
+            "name": "LENNAR CORP DRN",
+            "close": 542.7,
+            "change": 0.09960713,
+            "volume": 2,
+            "market_cap": 154775925911.85413,
+            "logo": "https://s3-symbol-logo.tradingview.com/lennar--big.svg",
+            "sector": "Consumer Durables"
+        },
+        {
+            "stock": "BGIP3F",
+            "name": "BANESE",
+            "close": 29.24,
+            "change": 0,
+            "volume": 2,
+            "market_cap": 381515844,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "JOPA3F",
+            "name": "JOSAPAR",
+            "close": 22.11,
+            "change": 2.8372093,
+            "volume": 2,
+            "market_cap": 231385159,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Process Industries"
+        },
+        {
+            "stock": "BEWH39",
+            "name": "MSCIHONGKONGDRE",
+            "close": 32,
+            "change": -2.02082058,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "BEWA39",
+            "name": "MSCIAUSTRALIDRE",
+            "close": 37.36,
+            "change": 1.30151569,
+            "volume": 2,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": "Miscellaneous"
         },
         {
             "stock": "KMIC34",
@@ -16041,116 +16231,6 @@
             "sector": "Producer Manufacturing"
         },
         {
-            "stock": "BIRB39",
-            "name": "BKR ROBT AIMDRE",
-            "close": 78.32,
-            "change": 0.6037277,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "WSEC11",
-            "name": "FII WARREN CI",
-            "close": 89.97,
-            "change": 0.01111716,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": null
-        },
-        {
-            "stock": "CSRN6F",
-            "name": "COSERN PNB",
-            "close": 21.5,
-            "change": 0,
-            "volume": 2,
-            "market_cap": 3701991831,
-            "logo": "https://s3-symbol-logo.tradingview.com/cosern-on--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "CRIV3F",
-            "name": "ALFA FINANC",
-            "close": 5.5,
-            "change": 2.42085661,
-            "volume": 2,
-            "market_cap": 556237424,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "FRIO3F",
-            "name": "METALFRIO",
-            "close": 23,
-            "change": 0,
-            "volume": 2,
-            "market_cap": 94496406,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Producer Manufacturing"
-        },
-        {
-            "stock": "C1AH34",
-            "name": "CARDINAL HEADRN",
-            "close": 417.26,
-            "change": -2.4e-06,
-            "volume": 2,
-            "market_cap": 106147904503.5461,
-            "logo": "https://s3-symbol-logo.tradingview.com/cardinal-health--big.svg",
-            "sector": "Distribution Services"
-        },
-        {
-            "stock": "BGIP3F",
-            "name": "BANESE",
-            "close": 29.24,
-            "change": 0,
-            "volume": 2,
-            "market_cap": 381515844,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BEWH39",
-            "name": "MSCIHONGKONGDRE",
-            "close": 32,
-            "change": -2.02082058,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "GDXB39",
-            "name": "VE GOLD ETF DRE",
-            "close": 53.75,
-            "change": 5.70305234,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/vaneck--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "DRIT11B",
-            "name": "MULTIGESTAO RENDA",
-            "close": 90.95,
-            "change": -0.01099274,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/multigestao-renda--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "TXSA34",
-            "name": "TERNIUMSA DRN",
-            "close": 194.12,
-            "change": 2.77968973,
-            "volume": 2,
-            "market_cap": 37103544685.91693,
-            "logo": "https://s3-symbol-logo.tradingview.com/ternium--big.svg",
-            "sector": "Non-Energy Minerals"
-        },
-        {
             "stock": "A1ES34",
             "name": "AES CORP DRN",
             "close": 100.4,
@@ -16161,33 +16241,23 @@
             "sector": "Utilities"
         },
         {
-            "stock": "JOPA3F",
-            "name": "JOSAPAR",
-            "close": 22.11,
-            "change": 2.8372093,
+            "stock": "TPRY34",
+            "name": "TAPESTRY INCDRN",
+            "close": 198,
+            "change": -1.13840623,
             "volume": 2,
-            "market_cap": 231385159,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Process Industries"
+            "market_cap": 46993655942.24925,
+            "logo": "https://s3-symbol-logo.tradingview.com/tapestry--big.svg",
+            "sector": "Retail Trade"
         },
         {
-            "stock": "MDTC34",
-            "name": "MEDTRONIC DRN",
-            "close": 207.98,
-            "change": -0.96190476,
-            "volume": 2,
-            "market_cap": 557780490146.9098,
-            "logo": "https://s3-symbol-logo.tradingview.com/medtronic--big.svg",
-            "sector": "Health Technology"
-        },
-        {
-            "stock": "BICE11",
-            "name": "FII BRIO CRECI",
-            "close": 840,
-            "change": -6.66978078,
+            "stock": "BKSA39",
+            "name": "BKR SAUDARABDRE",
+            "close": 50.64,
+            "change": 1.97e-06,
             "volume": 2,
             "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
             "sector": null
         },
         {
@@ -16201,26 +16271,6 @@
             "sector": null
         },
         {
-            "stock": "M1CK34",
-            "name": "MCKESSON CORDRN",
-            "close": 493,
-            "change": -0.4040404,
-            "volume": 2,
-            "market_cap": 268484237705.1672,
-            "logo": "https://s3-symbol-logo.tradingview.com/mckesson--big.svg",
-            "sector": "Distribution Services"
-        },
-        {
-            "stock": "BCWV39",
-            "name": "MSCIGLMIVOLFDRE",
-            "close": 48.59,
-            "change": -0.73544636,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
             "stock": "N1UE34",
             "name": "NUCOR CORP DRN",
             "close": 56.1,
@@ -16231,124 +16281,44 @@
             "sector": "Non-Energy Minerals"
         },
         {
-            "stock": "D1OW34",
-            "name": "DOW INC DRN",
-            "close": 61.78,
-            "change": -0.32268474,
+            "stock": "CRIV3F",
+            "name": "ALFA FINANC",
+            "close": 5.5,
+            "change": 2.42085661,
             "volume": 2,
-            "market_cap": 174786302046.6059,
-            "logo": "https://s3-symbol-logo.tradingview.com/dow--big.svg",
-            "sector": "Process Industries"
-        },
-        {
-            "stock": "EKTR3F",
-            "name": "ELEKTRO",
-            "close": 34.95,
-            "change": -2.86e-06,
-            "volume": 2,
-            "market_cap": 7079858682,
-            "logo": "https://s3-symbol-logo.tradingview.com/elektro-pn--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "L1EN34",
-            "name": "LENNAR CORP DRN",
-            "close": 542.7,
-            "change": 0.09960713,
-            "volume": 2,
-            "market_cap": 154775925911.85413,
-            "logo": "https://s3-symbol-logo.tradingview.com/lennar--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
-            "stock": "BALM4F",
-            "name": "BAUMER PN",
-            "close": 9.4,
-            "change": 7.30593607,
-            "volume": 2,
-            "market_cap": 96374518,
+            "market_cap": 556237424,
             "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Health Technology"
+            "sector": "Finance"
         },
         {
-            "stock": "TPRY34",
-            "name": "TAPESTRY INCDRN",
-            "close": 198,
-            "change": -1.13840623,
-            "volume": 2,
-            "market_cap": 46993655942.24925,
-            "logo": "https://s3-symbol-logo.tradingview.com/tapestry--big.svg",
+            "stock": "BBYY34",
+            "name": "BEST BUY DRN",
+            "close": 362.5,
+            "change": 6.33617208,
+            "volume": 1,
+            "market_cap": 80499059766.97061,
+            "logo": "https://s3-symbol-logo.tradingview.com/best-buy--big.svg",
             "sector": "Retail Trade"
         },
         {
-            "stock": "BEWA39",
-            "name": "MSCIAUSTRALIDRE",
-            "close": 37.36,
-            "change": 1.30151569,
-            "volume": 2,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "HUCG11",
-            "name": "FII UNIMED CCI",
-            "close": 79.99,
-            "change": 2.56443397,
+            "stock": "E2EF34",
+            "name": "EURONETWORLDDRN",
+            "close": 3.81,
+            "change": 1.06100796,
             "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
+            "market_cap": 28006187467.071938,
+            "logo": "https://s3-symbol-logo.tradingview.com/euronet-worldwide--big.svg",
+            "sector": "Technology Services"
         },
         {
-            "stock": "BFXI39",
-            "name": "CHINALARGECADRE",
-            "close": 26.71,
-            "change": 2.45492904,
+            "stock": "BIYF39",
+            "name": "US FINANCIALDRE",
+            "close": 23.72,
+            "change": -0.25231706,
             "volume": 1,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "KMBB34",
-            "name": "KIMBERLY CL DRN",
-            "close": 673.88,
-            "change": -2.33481503,
-            "volume": 1,
-            "market_cap": 229501144741.64136,
-            "logo": "https://s3-symbol-logo.tradingview.com/kimberly-clark--big.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
-            "stock": "SRVD11",
-            "name": "FII SERRA VDCI",
-            "close": 5.71,
-            "change": -0.17482517,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
             "sector": null
-        },
-        {
-            "stock": "S1RP34",
-            "name": "SAREPTA THERDRN",
-            "close": 31.29,
-            "change": -0.60355781,
-            "volume": 1,
-            "market_cap": 58324078708.20669,
-            "logo": "https://s3-symbol-logo.tradingview.com/sarepta-therapeutics--big.svg",
-            "sector": "Health Technology"
-        },
-        {
-            "stock": "BAUH4F",
-            "name": "EXCELSIOR PN",
-            "close": 70,
-            "change": -0.0999001,
-            "volume": 1,
-            "market_cap": 182327497,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Distribution Services"
         },
         {
             "stock": "V1NO34",
@@ -16361,24 +16331,84 @@
             "sector": "Finance"
         },
         {
-            "stock": "B2HI34",
-            "name": "BILL HOLD DRN",
-            "close": 2.9,
-            "change": 0,
+            "stock": "BAUH4F",
+            "name": "EXCELSIOR PN",
+            "close": 70,
+            "change": -0.0999001,
             "volume": 1,
-            "market_cap": 55762256149.94935,
-            "logo": "https://s3-symbol-logo.tradingview.com/bill-com--big.svg",
+            "market_cap": 182327497,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Distribution Services"
+        },
+        {
+            "stock": "PEVC11",
+            "name": "INVESTO PEVCCI",
+            "close": 98.55,
+            "change": 0.22373436,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "P2AT34",
+            "name": "UIPATH INC DRN",
+            "close": 10.95,
+            "change": -1.1732852,
+            "volume": 1,
+            "market_cap": 50801509625.12665,
+            "logo": "https://s3-symbol-logo.tradingview.com/uipath--big.svg",
             "sector": "Technology Services"
         },
         {
-            "stock": "F2VR34",
-            "name": "FIVERR INTL DRN",
-            "close": 6.62,
-            "change": -1.19402985,
+            "stock": "A1TM34",
+            "name": "ATMOS ENERGYDRN",
+            "close": 288.32,
+            "change": 1.19939145,
             "volume": 1,
-            "market_cap": 5009463718.3384,
-            "logo": "https://s3-symbol-logo.tradingview.com/fiverr--big.svg",
-            "sector": "Technology Services"
+            "market_cap": 84379422831.81358,
+            "logo": "https://s3-symbol-logo.tradingview.com/atmos-energy--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "IDGR11",
+            "name": "FII UNID II CI",
+            "close": 55,
+            "change": -5.98290598,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "A1SN34",
+            "name": "ASCENDIS PHADRN",
+            "close": 29.4,
+            "change": 1.03092784,
+            "volume": 1,
+            "market_cap": 24767239407.294834,
+            "logo": "https://s3-symbol-logo.tradingview.com/ascendis-pharma--big.svg",
+            "sector": "Health Technology"
+        },
+        {
+            "stock": "ABGD39",
+            "name": "ABDEN GOLD DRE",
+            "close": 47.6,
+            "change": -0.52246188,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/abrdn--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "LIPR3F",
+            "name": "ELETROPAR",
+            "close": 72.86,
+            "change": 1.19444444,
+            "volume": 1,
+            "market_cap": 847071991,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Utilities"
         },
         {
             "stock": "H2TA34",
@@ -16391,14 +16421,254 @@
             "sector": "Finance"
         },
         {
-            "stock": "U2PW34",
-            "name": "UPWORK INC DRN",
-            "close": 8.22,
-            "change": 0.85889571,
+            "stock": "BEWZ39",
+            "name": "MSCI BRAZIL DRE",
+            "close": 49.5,
+            "change": 1.62184565,
             "volume": 1,
-            "market_cap": 5544108100.303951,
-            "logo": "https://s3-symbol-logo.tradingview.com/upwork--big.svg",
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "AIGB34",
+            "name": "AIG GROUP DRN",
+            "close": 269.73,
+            "change": -1.29903396,
+            "volume": 1,
+            "market_cap": 196465274037.48734,
+            "logo": "https://s3-symbol-logo.tradingview.com/american-international-group--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "BIWM39",
+            "name": "RUSSELL 2000DRE",
+            "close": 44.03,
+            "change": 2.27e-06,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "HUCG11",
+            "name": "FII UNIMED CCI",
+            "close": 79.99,
+            "change": 2.56443397,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "BZLI11",
+            "name": "FII BRREALTYCI",
+            "close": 17,
+            "change": 0,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "BRGE3F",
+            "name": "ALFA CONSORCON",
+            "close": 9.9,
+            "change": -0.40241449,
+            "volume": 1,
+            "market_cap": 730881807,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "W1MG34",
+            "name": "WARNER MUSICDRN",
+            "close": 30.87,
+            "change": -3.24e-06,
+            "volume": 1,
+            "market_cap": 63908705212.76596,
+            "logo": "https://s3-symbol-logo.tradingview.com/wmg--big.svg",
             "sector": "Commercial Services"
+        },
+        {
+            "stock": "MNDL3F",
+            "name": "MUNDIAL",
+            "close": 51.8,
+            "change": 3.6,
+            "volume": 1,
+            "market_cap": 128437063.99999999,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Consumer Non-Durables"
+        },
+        {
+            "stock": "BDOM11",
+            "name": "INVESTO BDOMCI",
+            "close": 97.1,
+            "change": 2.19976629,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "C1BL34",
+            "name": "CHUBB LTD DRN",
+            "close": 235,
+            "change": -1.67364017,
+            "volume": 1,
+            "market_cap": 389835984159.068,
+            "logo": "https://s3-symbol-logo.tradingview.com/chubb--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "H1SB34",
+            "name": "HSBC HOLDINGDRN",
+            "close": 46.9,
+            "change": 0.42826337,
+            "volume": 1,
+            "market_cap": 741884689034.4114,
+            "logo": "https://s3-symbol-logo.tradingview.com/hsbc--big.svg",
+            "sector": "Finance"
+        },
+        {
+            "stock": "DUKB34",
+            "name": "DUKE ENERGY DRN",
+            "close": 441.5,
+            "change": -2.29707002,
+            "volume": 1,
+            "market_cap": 348589128576.4945,
+            "logo": "https://s3-symbol-logo.tradingview.com/duke-energy--big.svg",
+            "sector": "Utilities"
+        },
+        {
+            "stock": "A2ZT34",
+            "name": "AZENTA INC DRN",
+            "close": 18.06,
+            "change": 3.25900515,
+            "volume": 1,
+            "market_cap": 14277880466.058765,
+            "logo": "https://s3-symbol-logo.tradingview.com/brooks-automation--big.svg",
+            "sector": "Health Services"
+        },
+        {
+            "stock": "EDFO11B",
+            "name": "FD INV IMOB ED OUR",
+            "close": 190.01,
+            "change": 0.00526316,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "HETA4F",
+            "name": "HERCULES PN",
+            "close": 3.8,
+            "change": 2.15053763,
+            "volume": 1,
+            "market_cap": 1767159,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Consumer Durables"
+        },
+        {
+            "stock": "SRVD11",
+            "name": "FII SERRA VDCI",
+            "close": 5.71,
+            "change": -0.17482517,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "F2VR34",
+            "name": "FIVERR INTL DRN",
+            "close": 6.62,
+            "change": -1.19402985,
+            "volume": 1,
+            "market_cap": 5009463718.3384,
+            "logo": "https://s3-symbol-logo.tradingview.com/fiverr--big.svg",
+            "sector": "Technology Services"
+        },
+        {
+            "stock": "BXPO11",
+            "name": "INVESTO BXPOCI",
+            "close": 100.25,
+            "change": 0.65261246,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "CRIP34",
+            "name": "CTRIPCOM DRN",
+            "close": 156.63,
+            "change": -0.00638407,
+            "volume": 1,
+            "market_cap": 100463809198.6383,
+            "logo": "https://s3-symbol-logo.tradingview.com/ctrip-com-international--big.svg",
+            "sector": "Consumer Services"
+        },
+        {
+            "stock": "TAKP34",
+            "name": "TAKEDAPH DRN",
+            "close": 79.79,
+            "change": -0.78338475,
+            "volume": 1,
+            "market_cap": 252785895021.09183,
+            "logo": "https://s3-symbol-logo.tradingview.com/takeda--big.svg",
+            "sector": "Health Technology"
+        },
+        {
+            "stock": "ROST34",
+            "name": "ROSS STORES DRN",
+            "close": 254.57,
+            "change": -3.32295673,
+            "volume": 1,
+            "market_cap": 179549439721.37793,
+            "logo": "https://s3-symbol-logo.tradingview.com/ross-stores--big.svg",
+            "sector": "Retail Trade"
+        },
+        {
+            "stock": "ODER4F",
+            "name": "ODERICH PN",
+            "close": 101.2,
+            "change": 1.30129927,
+            "volume": 1,
+            "market_cap": 142851698,
+            "logo": "https://brapi.dev/favicon.svg",
+            "sector": "Consumer Non-Durables"
+        },
+        {
+            "stock": "BFXI39",
+            "name": "CHINALARGECADRE",
+            "close": 26.71,
+            "change": 2.45492904,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
+            "sector": "Miscellaneous"
+        },
+        {
+            "stock": "SIVR39",
+            "name": "ABDEN SILV DRE",
+            "close": 38.3,
+            "change": -0.2084445,
+            "volume": 1,
+            "market_cap": null,
+            "logo": "https://s3-symbol-logo.tradingview.com/abrdn--big.svg",
+            "sector": null
+        },
+        {
+            "stock": "KMBB34",
+            "name": "KIMBERLY CL DRN",
+            "close": 673.88,
+            "change": -2.33481503,
+            "volume": 1,
+            "market_cap": 229501144741.64136,
+            "logo": "https://s3-symbol-logo.tradingview.com/kimberly-clark--big.svg",
+            "sector": "Consumer Non-Durables"
         },
         {
             "stock": "BIEV39",
@@ -16421,94 +16691,24 @@
             "sector": "Miscellaneous"
         },
         {
-            "stock": "LIPR3F",
-            "name": "ELETROPAR",
-            "close": 72.86,
-            "change": 1.19444444,
+            "stock": "GPRK34",
+            "name": "GEOPARK LTD DRN",
+            "close": 48,
+            "change": -2.2801283,
             "volume": 1,
-            "market_cap": 847071991,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Utilities"
+            "market_cap": 2816792765.957447,
+            "logo": "https://s3-symbol-logo.tradingview.com/geopark-ltd--big.svg",
+            "sector": "Energy Minerals"
         },
         {
-            "stock": "A1TM34",
-            "name": "ATMOS ENERGYDRN",
-            "close": 288.32,
-            "change": 1.19939145,
-            "volume": 1,
-            "market_cap": 84379422831.81358,
-            "logo": "https://s3-symbol-logo.tradingview.com/atmos-energy--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "H1SB34",
-            "name": "HSBC HOLDINGDRN",
-            "close": 46.9,
-            "change": 0.42826337,
-            "volume": 1,
-            "market_cap": 741884689034.4114,
-            "logo": "https://s3-symbol-logo.tradingview.com/hsbc--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "A2ZT34",
-            "name": "AZENTA INC DRN",
-            "close": 18.06,
-            "change": 3.25900515,
-            "volume": 1,
-            "market_cap": 14277880466.058765,
-            "logo": "https://s3-symbol-logo.tradingview.com/brooks-automation--big.svg",
-            "sector": "Health Services"
-        },
-        {
-            "stock": "IDGR11",
-            "name": "FII UNID II CI",
-            "close": 55,
-            "change": -5.98290598,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "ABGD39",
-            "name": "ABDEN GOLD DRE",
-            "close": 47.6,
-            "change": -0.52246188,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/abrdn--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "P2AT34",
-            "name": "UIPATH INC DRN",
-            "close": 10.95,
-            "change": -1.1732852,
-            "volume": 1,
-            "market_cap": 50801509625.12665,
-            "logo": "https://s3-symbol-logo.tradingview.com/uipath--big.svg",
-            "sector": "Technology Services"
-        },
-        {
-            "stock": "BBYY34",
-            "name": "BEST BUY DRN",
-            "close": 362.5,
-            "change": 6.33617208,
-            "volume": 1,
-            "market_cap": 80499059766.97061,
-            "logo": "https://s3-symbol-logo.tradingview.com/best-buy--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
-            "stock": "BIWM39",
-            "name": "RUSSELL 2000DRE",
-            "close": 44.03,
-            "change": 2.27e-06,
+            "stock": "BXTC39",
+            "name": "EXPON TECHNLDRE",
+            "close": 45.15,
+            "change": 0.31104645,
             "volume": 1,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
+            "sector": "Miscellaneous"
         },
         {
             "stock": "USBC34",
@@ -16518,206 +16718,6 @@
             "volume": 1,
             "market_cap": 232190124766.9706,
             "logo": "https://s3-symbol-logo.tradingview.com/us-bancorp--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "CRIP34",
-            "name": "CTRIPCOM DRN",
-            "close": 156.63,
-            "change": -0.00638407,
-            "volume": 1,
-            "market_cap": 100463809198.6383,
-            "logo": "https://s3-symbol-logo.tradingview.com/ctrip-com-international--big.svg",
-            "sector": "Consumer Services"
-        },
-        {
-            "stock": "AIGB34",
-            "name": "AIG GROUP DRN",
-            "close": 269.73,
-            "change": -1.29903396,
-            "volume": 1,
-            "market_cap": 196465274037.48734,
-            "logo": "https://s3-symbol-logo.tradingview.com/american-international-group--big.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BIYF39",
-            "name": "US FINANCIALDRE",
-            "close": 23.72,
-            "change": -0.25231706,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "WLMM4F",
-            "name": "WLM IND COM PN",
-            "close": 23.4,
-            "change": 0.90555839,
-            "volume": 1,
-            "market_cap": 799134486,
-            "logo": "https://s3-symbol-logo.tradingview.com/wlm-ind-com-pn--big.svg",
-            "sector": "Distribution Services"
-        },
-        {
-            "stock": "ODER4F",
-            "name": "ODERICH PN",
-            "close": 101.2,
-            "change": 1.30129927,
-            "volume": 1,
-            "market_cap": 142851698,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
-            "stock": "A1SN34",
-            "name": "ASCENDIS PHADRN",
-            "close": 29.4,
-            "change": 1.03092784,
-            "volume": 1,
-            "market_cap": 24767239407.294834,
-            "logo": "https://s3-symbol-logo.tradingview.com/ascendis-pharma--big.svg",
-            "sector": "Health Technology"
-        },
-        {
-            "stock": "S1WK34",
-            "name": "STANLEY BLACDRN",
-            "close": 95,
-            "change": -0.97978109,
-            "volume": 1,
-            "market_cap": 58161649265.45087,
-            "logo": "https://s3-symbol-logo.tradingview.com/stanley-black-and-decker--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
-            "stock": "BDOM11",
-            "name": "INVESTO BDOMCI",
-            "close": 97.1,
-            "change": 2.19976629,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "BRGE3F",
-            "name": "ALFA CONSORCON",
-            "close": 9.9,
-            "change": -0.40241449,
-            "volume": 1,
-            "market_cap": 730881807,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Finance"
-        },
-        {
-            "stock": "BZLI11",
-            "name": "FII BRREALTYCI",
-            "close": 17,
-            "change": 0,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/fii--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "PEVC11",
-            "name": "INVESTO PEVCCI",
-            "close": 98.55,
-            "change": 0.22373436,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/investo--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "W1MG34",
-            "name": "WARNER MUSICDRN",
-            "close": 30.87,
-            "change": -3.24e-06,
-            "volume": 1,
-            "market_cap": 63908705212.76596,
-            "logo": "https://s3-symbol-logo.tradingview.com/wmg--big.svg",
-            "sector": "Commercial Services"
-        },
-        {
-            "stock": "BEWT39",
-            "name": "MSCI TAIWAN DRE",
-            "close": 38.81,
-            "change": 2.69912404,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "H1OG34",
-            "name": "HARLEY-DAVIDDRN",
-            "close": 159.36,
-            "change": -0.08151608,
-            "volume": 1,
-            "market_cap": 22656444078.014187,
-            "logo": "https://s3-symbol-logo.tradingview.com/harley-davidson--big.svg",
-            "sector": "Consumer Durables"
-        },
-        {
-            "stock": "MNDL3F",
-            "name": "MUNDIAL",
-            "close": 51.8,
-            "change": 3.6,
-            "volume": 1,
-            "market_cap": 128437063.99999999,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Consumer Non-Durables"
-        },
-        {
-            "stock": "SIVR39",
-            "name": "ABDEN SILV DRE",
-            "close": 38.3,
-            "change": -0.2084445,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/abrdn--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "E2EF34",
-            "name": "EURONETWORLDDRN",
-            "close": 3.81,
-            "change": 1.06100796,
-            "volume": 1,
-            "market_cap": 28006187467.071938,
-            "logo": "https://s3-symbol-logo.tradingview.com/euronet-worldwide--big.svg",
-            "sector": "Technology Services"
-        },
-        {
-            "stock": "ROST34",
-            "name": "ROSS STORES DRN",
-            "close": 254.57,
-            "change": -3.32295673,
-            "volume": 1,
-            "market_cap": 179549439721.37793,
-            "logo": "https://s3-symbol-logo.tradingview.com/ross-stores--big.svg",
-            "sector": "Retail Trade"
-        },
-        {
-            "stock": "DUKB34",
-            "name": "DUKE ENERGY DRN",
-            "close": 441.5,
-            "change": -2.29707002,
-            "volume": 1,
-            "market_cap": 348589128576.4945,
-            "logo": "https://s3-symbol-logo.tradingview.com/duke-energy--big.svg",
-            "sector": "Utilities"
-        },
-        {
-            "stock": "C1BL34",
-            "name": "CHUBB LTD DRN",
-            "close": 235,
-            "change": -1.67364017,
-            "volume": 1,
-            "market_cap": 389835984159.068,
-            "logo": "https://s3-symbol-logo.tradingview.com/chubb--big.svg",
             "sector": "Finance"
         },
         {
@@ -16731,14 +16731,34 @@
             "sector": "Distribution Services"
         },
         {
-            "stock": "HETA4F",
-            "name": "HERCULES PN",
-            "close": 3.8,
-            "change": 2.15053763,
+            "stock": "WLMM4F",
+            "name": "WLM IND COM PN",
+            "close": 23.4,
+            "change": 0.90555839,
             "volume": 1,
-            "market_cap": 1767159,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Consumer Durables"
+            "market_cap": 799134486,
+            "logo": "https://s3-symbol-logo.tradingview.com/wlm-ind-com-pn--big.svg",
+            "sector": "Distribution Services"
+        },
+        {
+            "stock": "B2HI34",
+            "name": "BILL HOLD DRN",
+            "close": 2.9,
+            "change": 0,
+            "volume": 1,
+            "market_cap": 55762256149.94935,
+            "logo": "https://s3-symbol-logo.tradingview.com/bill-com--big.svg",
+            "sector": "Technology Services"
+        },
+        {
+            "stock": "S1RP34",
+            "name": "SAREPTA THERDRN",
+            "close": 31.29,
+            "change": -0.60355781,
+            "volume": 1,
+            "market_cap": 58324078708.20669,
+            "logo": "https://s3-symbol-logo.tradingview.com/sarepta-therapeutics--big.svg",
+            "sector": "Health Technology"
         },
         {
             "stock": "C1CI34",
@@ -16751,64 +16771,44 @@
             "sector": "Finance"
         },
         {
-            "stock": "EDFO11B",
-            "name": "FD INV IMOB ED OUR",
-            "close": 190.01,
-            "change": 0.00526316,
+            "stock": "H1OG34",
+            "name": "HARLEY-DAVIDDRN",
+            "close": 159.36,
+            "change": -0.08151608,
             "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/btgp--big.svg",
-            "sector": null
+            "market_cap": 22656444078.014187,
+            "logo": "https://s3-symbol-logo.tradingview.com/harley-davidson--big.svg",
+            "sector": "Consumer Durables"
         },
         {
-            "stock": "GPRK34",
-            "name": "GEOPARK LTD DRN",
-            "close": 48,
-            "change": -2.2801283,
+            "stock": "U2PW34",
+            "name": "UPWORK INC DRN",
+            "close": 8.22,
+            "change": 0.85889571,
             "volume": 1,
-            "market_cap": 2816792765.957447,
-            "logo": "https://s3-symbol-logo.tradingview.com/geopark-ltd--big.svg",
-            "sector": "Energy Minerals"
+            "market_cap": 5544108100.303951,
+            "logo": "https://s3-symbol-logo.tradingview.com/upwork--big.svg",
+            "sector": "Commercial Services"
         },
         {
-            "stock": "TAKP34",
-            "name": "TAKEDAPH DRN",
-            "close": 79.79,
-            "change": -0.78338475,
+            "stock": "S1WK34",
+            "name": "STANLEY BLACDRN",
+            "close": 95,
+            "change": -0.97978109,
             "volume": 1,
-            "market_cap": 252785895021.09183,
-            "logo": "https://s3-symbol-logo.tradingview.com/takeda--big.svg",
-            "sector": "Health Technology"
+            "market_cap": 58161649265.45087,
+            "logo": "https://s3-symbol-logo.tradingview.com/stanley-black-and-decker--big.svg",
+            "sector": "Consumer Durables"
         },
         {
-            "stock": "BEWZ39",
-            "name": "MSCI BRAZIL DRE",
-            "close": 49.5,
-            "change": 1.62184565,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": null
-        },
-        {
-            "stock": "BXTC39",
-            "name": "EXPON TECHNLDRE",
-            "close": 45.15,
-            "change": 0.31104645,
+            "stock": "BEWT39",
+            "name": "MSCI TAIWAN DRE",
+            "close": 38.81,
+            "change": 2.69912404,
             "volume": 1,
             "market_cap": null,
             "logo": "https://s3-symbol-logo.tradingview.com/ishares--big.svg",
-            "sector": "Miscellaneous"
-        },
-        {
-            "stock": "BXPO11",
-            "name": "INVESTO BXPOCI",
-            "close": 100.25,
-            "change": 0.65261246,
-            "volume": 1,
-            "market_cap": null,
-            "logo": "https://brapi.dev/favicon.svg",
-            "sector": "Miscellaneous"
+            "sector": null
         }
     ]
 }
