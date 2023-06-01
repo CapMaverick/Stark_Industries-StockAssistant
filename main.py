@@ -7,6 +7,7 @@ import shutil
 import os
 from datetime import datetime
 import requests
+from tkinter import messagebox
 
 def obter_dados():
     response = requests.get('https://brapi.dev/api/quote/list')
@@ -29,7 +30,7 @@ def atualizar_dados():
     if dados:
         with open('dados.json', 'w') as file:
             json.dump(dados, file, indent=4)
-        salvar_historico()
+        salvar_historico()  # Adicionado para salvar o histórico
         return True
     else:
         return False
@@ -127,6 +128,12 @@ def exibir_dados():
     btn_proxima.pack(side=tk.LEFT)
 
     atualizar_tabela()
+
+    # Verificar se houve atualização dos dados e mostrar mensagem de confirmação
+    if atualizar_dados():
+        messagebox.showinfo('Atualização', 'Os dados foram atualizados com sucesso e o arquivo antigo foi salvo no histórico.')
+    else:
+        messagebox.showerror('Atualização', 'Falha ao atualizar os dados.')
 
     root.mainloop()
 
