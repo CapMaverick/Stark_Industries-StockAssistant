@@ -3,8 +3,43 @@ from tkinter import ttk
 import json
 import locale
 import math
+import shutil
+import os
+from datetime import datetime
+import requests
+
+def obter_dados():
+    response = requests.get('https://brapi.dev/api/quote/list')
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print('Falha ao obter dados da API')
+        return None
+
+def salvar_historico():
+    # Verificar se a pasta "Histórico" existe, caso contrário, criar a pasta
+    if not os.path.exists('Histórico'):
+        os.makedirs('Histórico')
+
+    # Fazer uma cópia do arquivo de dados.json na pasta "Histórico" com um nome único
+    shutil.copy('dados.json', os.path.join('Histórico', f'dados_{datetime.now().strftime("%Y%m%d%H%M%S")}.json'))
+
+def atualizar_dados():
+    dados = obter_dados()
+    if dados:
+        with open('dados.json', 'w') as file:
+            json.dump(dados, file, indent=4)
+        salvar_historico()
+        return True
+    else:
+        return False
 
 def exibir_dados():
+    # Verificar se o arquivo de dados.json existe, caso contrário, realizar a primeira atualização dos dados
+    if not os.path.exists('dados.json'):
+        if not atualizar_dados():
+            return
+
     with open('dados.json', 'r') as file:
         dados = json.load(file)
 
@@ -18,14 +53,17 @@ def exibir_dados():
         nonlocal lbl_pagina_atual  # Adicionado para tornar a variável acessível
         table.delete(*table.get_children())
         for stock in stocks[current_page * items_per_page: (current_page + 1) * items_per_page]:
-            close_formatted = locale.currency(stock['close'], grouping=True)
-            change_formatted = f"{stock['change']:.2f}%"
-            market_cap = stock['market_cap']
-            market_cap_formatted = locale.currency(market_cap, grouping=True) if market_cap is not None else ''
+            if stock['market_cap'] is not None and stock['sector'] is not None:
+                close_formatted = locale.currency(stock['close'], grouping=True)
+                change = stock['change']
+                change_formatted = f"{change:.2f}%"
+                market_cap = stock['market_cap']
+                market_cap_formatted = locale.currency(market_cap, grouping=True)
+                sector = stock['sector']
 
-            table.insert('', 'end', text='',
-                         values=(stock['stock'], stock['name'], close_formatted, change_formatted,
-                                 market_cap_formatted, stock['sector']))
+                table.insert('', 'end', text='',
+                             values=(stock['stock'], stock['name'], close_formatted, change_formatted,
+                                     market_cap_formatted, sector))
 
         lbl_pagina_atual.config(text=f"Página: {current_page + 1}/{total_pages}")
 
@@ -48,7 +86,7 @@ def exibir_dados():
     root.geometry('800x600')  # Definir tamanho fixo da janela
 
     frame_tabela = tk.Frame(root)
-    frame_tabela.pack(fill=tk.BOTH, expand=True, padx=20, pady=(20, 0))  # Adicionado pady=(20, 0) para espaço apenas na parte superior
+    frame_tabela.pack(fill=tk.BOTH, expand=True, padx=20, pady=(20, 0))
 
     table = ttk.Treeview(frame_tabela)
     table['columns'] = ('Stock', 'Name', 'Close', 'Change', 'Market Cap', 'Sector')
