@@ -1,0 +1,28 @@
+Coleta de dados:
+
+Acesse um site de investimentos e extraia dados relevantes, como preços de ações, índices de mercado, notícias financeiras, entre outros.
+Utilize bibliotecas como BeautifulSoup ou Selenium em Python para realizar o web scraping e obter os dados necessários.
+Pré-processamento dos dados:
+
+Limpe e organize os dados coletados, removendo valores ausentes, tratando outliers e normalizando as variáveis.
+Realize a seleção das features relevantes para a previsão, como histórico de preços, volume de negociações, indicadores técnicos, entre outros.
+Desenvolvimento do modelo de aprendizado de máquina:
+
+Escolha um algoritmo adequado para previsão de séries temporais financeiras, como ARIMA, LSTM ou redes neurais.
+Divida os dados em conjunto de treinamento e teste para avaliação do modelo.
+Realize o treinamento do modelo com os dados históricos e ajuste os hiperparâmetros para obter o melhor desempenho.
+Criação da interface gráfica:
+
+Utilize uma biblioteca de interface gráfica como PyQt ou Tkinter para desenvolver uma janela separada com estilo moderno inspirado no macOS.
+Adicione elementos visuais, como gráficos de tendências, indicadores financeiros, notícias relevantes, etc., para fornecer uma experiência amigável aos usuários.
+Monitoramento e comparação de resultados:
+
+Salve as recomendações diárias feitas pelo modelo e os resultados reais do mercado em um banco de dados ou arquivo.
+No dia seguinte, compare as previsões do modelo com os resultados reais e calcule a diferença ou acurácia das previsões.
+Apresente essas informações em tempo real na interface gráfica, permitindo que os usuários vejam o desempenho do modelo ao longo do tempo.
+
+Requisitos de negócio:
+
+1. O programa analisará os dados atraves do acesso a um site de investimentos
+2. Ele deverá rodar em uma janela a parte, com estilo moderno baseado no macOS
+3. Ele deverá salvar as recomendações diárias feitas e no dia seguinte comparar o resultado, mostrando a diferença entre a previsão e ao que realmente aconteceu
